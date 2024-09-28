@@ -20,21 +20,29 @@
 	"shop_level"	: "Shop Level [VAL1]",
 	"dream_petals"	: "Dream Petals Radiated",
 	"list_title"	: "Solara's Gifts",
+	"player_gifts"	: "[NAME]'s Gifts",
 
 	"op_store"		: "Get Gifts",
+	"op_remove"		: "Remove Gift",
 	"op_upgrade"	: "Upgrades",
 	"op_leave"		: "Leave",
 	
-	"op_power_gifts"	: "Power Gifts",
-	"op_power_cost"		: "Power Karma Cost",
-	"op_bonus_gifts"	: "Bonus Gifts",
-	"op_bonus_cost"		: "Bonus Karma Cost",
-	"op_quick_gifts"	: "Quick Gifts",
-	"op_quick_cost"		: "Quick Karma Cost",
+	"up_power_gifts"	: "Power Gifts",
+	"up_dup_stock"		: "Duplicate Stock",
+	"up_dup_limit"		: "Duplicate Limit",
+	"up_bonus_gifts"	: "Bonus Gifts",
+	"up_quick_gifts"	: "Quick Gifts",
+	"up_blessings"		: "Blessings",
+	"up_burdens"		: "Burdens",
+	"up_remove"			: "Remove Gifts",
 	
 	"store_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
 		"dialog"	: "Solara can bring you gifts, but Solara will need some of your |C3|karma.|C0|",
+	},
+	"remove_text"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara can remove one of your gifts.",
 	},
 	"upgrade_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
@@ -49,11 +57,15 @@
 		"dialog"	: "Solara will leave to search for more gifts.",
 	},
 	
-	"comment_no_gifts"	: {
+	"comment_no_gifts"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
 		"dialog"	: "Solara can't find any more gifts right now!",
 	},
-	"comment_max_level"	: {
+	"comment_remove_done"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Solara can only remove one of your gifts when you visit.",
+	},
+	"comment_max_level"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
 		"dialog"	: "Solara is the most powerful |C3|Queen of Dreams|C0| that ever was!",
 	},
@@ -71,6 +83,10 @@
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
 		"dialog"	: "|wave|A very powerful gift!|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
 	},
+	"comment_duplicate"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "|wave|A duplicate gift!|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
 	"comment_bonus"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
 		"dialog"	: "|wave|A bonus gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
@@ -79,23 +95,42 @@
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
 		"dialog"	: "|wave|A quick gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
 	},
+	"comment_blessing"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|A blessing.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
 	"comment_unknown"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
 		"dialog"	: "Solara can't tell what it is.|L|Solara will need |C3|[VAL1] karma|C0| to get this.",
 	},
-	"comment_limit"		: {
+	"comment_burden"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "You will get |C3|[VAL1] karma|C0| if you take on this burden.",
+	},
+	"comment_cant_afford"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
+		"dialog"	: "You don't have enough |C3|karma|C0| for this one!|L|Solara needs |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_quick_limit"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
 		"dialog"	: "You are holding too many quick gifts to carry this one.",
 	},
-	"comment_over"		: {
-		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "You don't have enough |C3|karma|C0| for this one!|L|Solara needs |C3|[VAL1] karma|C0| to get this.",
+	"comment_burden_limit"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+		"dialog"	: "Solara will not allow you to take another burden right now.",
+	},
+	"comment_duplicate_limit"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Solara can't get you any more duplicate power gifts.",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
 		"dialog"	: "You will give Solara |C3|[VAL1] karma?|C0|",
 	},
-	
+	"burden_confirm"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "You will take on this burden?",
+	},
 	"gift_bought" 		: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
@@ -115,16 +150,44 @@
 	
 	
 	
-	"power_plural" 	: "Power Gifts",
+	"comment_remove_gift"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara will need |C3|[VAL1] karma|C0| to remove this gift.",
+	},
+	"comment_remove_fail"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+		"dialog"	: "Solara needed |C3|[VAL1] karma|C0| to remove this gift.",
+	},
+	"comment_remove_soon"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Solara can't remove this gift yet, but maybe on your next visit.",
+	},
+	"comment_remove_starter"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+		"dialog"	: "Solara can't remove this gift from your heart.",
+	},
+	"remove_confirm"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "You want Solara to remove this gift?",
+	},
+	"gift_removed" 			: [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Give Solara one moment to tear this gift from your heart!",
+		}
+	],
+	
+	
+	
 	"power_1" 		: "1 Power Gift",
 	"power_n" 		: "[VAL1] Power Gifts",
-	"bonus_plural" 	: "Bonus Gifts",
 	"bonus_1" 		: "1 Bonus Gift",
 	"bonus_n" 		: "[VAL1] Bonus Gifts",
-	"quick_plural" 	: "Quick Gifts",
 	"quick_1" 		: "1 Quick Gift",
 	"quick_n" 		: "[VAL1] Quick Gifts",
-	"comment_gift_zero"			: {
+	"bless_1" 		: "1 Blessing",
+	"bless_n" 		: "[VAL1] Blessings",
+	"comment_gift_lv0"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
 		"dialog"	: "With some tetrid power, Solara can find |C3|[VAL1]|C0| from now on!",
 	},
@@ -133,20 +196,56 @@
 		"dialog"	: "Solara can reach |C3|[VAL1]|C0| right now, but with some tetrid power, Solara can find another one!",
 	},
 	"comment_gift_max"			: {
-		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
 		"dialog"	: "Solara can reach |C3|[VAL1]|C0| every time you visit!",
 	},
-	"comment_cost_down"			: {
+	"comment_burden_lv0"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "With some tetrid power, Solara will need |C3|1 less karma|C0| to reach any |C3|[VAL1]|C0| from now on!",
+		"dialog"	: "With some tetrid power, Solara can find you a |C3|Burden|C0| that gives you some karma!",
 	},
-	"comment_cost_max"			: {
+	"comment_burden_up"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "With more tetrid power, Solara can give you an extra choice of |C3|Burdens|C0| to pick from!",
+	},
+	"comment_burden_max"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "Solara can find you |C3|[VAL2] Burdens|C0| to choose from every time you visit!",
+	},
+	"comment_dup_stock_lv0"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "Solara can reach |C3|[VAL1]|C0| while using as little karma as possible!",
+		"dialog"	: "With some tetrid power, Solara can find a |C3|random duplicate Power Gift|C0| when you visit!",
+	},
+	"comment_dup_stock_lv1"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "Solara can find |C3|1 random duplicate Power Gift|C0| every time you visit, but Solara can find another one!",
+	},
+	"comment_dup_stock_max"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "Solara will find |C3|[VAL2] random duplicate Power Gifts|C0| every time you visit, until you can't take any more!",
+	},
+	"comment_dup_limit_lv1"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara can only give you |C3|1 duplicate|C0| Power Gift per endless nightmare, but Solara can do better!",
+	},
+	"comment_dup_limit_up"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "Solara can give you |C3|[VAL2] duplicate|C0| Power Gifts per endless nightmare, but Solara can do better!",
+	},
+	"comment_dup_limit_max"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "Solara can give you up to |C3|[VAL2] duplicate|C0| Power Gifts per endless nightmare! Make sure to pick the best ones!",
+	},
+	"comment_remove_lv0"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara can |C3|remove gifts|C0| that you don't want anymore, if you give Solara more tetrid power.",
+	},
+	"comment_remove_max"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "Solara can |C3|remove one of your gifts|C0| every time you visit!",
 	},
 	"comment_upgrade_fail"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "Solara needs you to radiate |C3|[VAL1] Dream Petals|C0| to increase this power.",
+		"dialog"	: "Solara needs you to radiate |C3|[VAL3] Dream Petals|C0| to increase this power.",
 	},
 	"comment_upgrade_fail_1"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
