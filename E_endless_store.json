@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "Solara has found some gifts within the depths of this nightmare.",
+			"dialog"			: "Solara has found some gifts within the depths of your nightmare.",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
@@ -13,7 +13,10 @@
 	"came_back_intro" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "Solara has found more gifts in the depths of this nightmare!",
+			"random"			: 3,
+			"dialog_rand1"		: "Solara has found more gifts in the depths of your nightmare!",
+			"dialog_rand2"		: "|wave|Welcome back to your happy place!",
+			"dialog_rand3"		: "Solara will get more gifts for you!",
 		}
 	],
 	
@@ -177,6 +180,43 @@
 			"dialog"			: "|shake|Give Solara one moment to tear this gift from your heart!",
 		}
 	],
+	"first_remove" 			: [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Solara can remove any gifts that you don't want anymore.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "Removing a gift will reduce the karma costs of other gifts as if you never even took it.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "Maybe you want to remove a |C3|duplicate gift|C0| to look for a different one.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Or maybe you have a gift that has already given you all the |C3|permanent benefits|C0| that it can.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Or maybe you want to remove a |C3|3-star Wonderful Gift|C0| so you can have a better chance at finding a different one.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "Oh,    maybe you didn't know about that?",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "Every |C3|Wonderful Gift|C0| you have on you, will make all the other ones harder to find!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "|shake|This happens in the waking world too!",
+		},
+	],
+	
 	
 	
 	
@@ -342,6 +382,292 @@
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
 			"dialog"			: "|wave|Enjoy the rest of this endless nightmare!",
+		},
+	],
+	
+	
+	
+	"intro_first" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Welcome to your happy place!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "All the |C3|gifts you have ever known|C0| can be found here.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "If     you know how to look for them.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+			"dialog"			: "Lucky for you, |wave|Solara knows how to find them.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "Solara must use the power of your |C3|karma|C0| to |shake|pull them out of your head!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+			"dialog"			: "But... Solara can't find much right now.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "You will have to give Solara more power with your tetrids first.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "Maybe with |shake|10 million|norm| tetrids, Solara can find all the gifts you ever wanted!",
+		},
+	],
+	"intro_price1" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Welcome back to your happy place!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Solara has found more gifts for you.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "But, there is a little problem.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "Every time Solara gets a gift for you-",
+			
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "Solara will need |C3|more karma|C0| to get the next one!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "But that shouldn't be a problem for you, right?",
+		},
+	],
+	"intro_price2" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Solara has found a new type of gift!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Now that Solara knows where the |C3|Bonus Gifts|C0| are found, new rules of karma have been revealed to Solara.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "The first rule is that |C3|Bonus Gift prices|C0| will increase separately from Power Gift prices.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "The other rule is a little more complicated.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "You knew that every time Solara gets you a gift, more karma is needed for the next one.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "But Solara has discovered that this |C3|increases even faster|C0| for other gifts of the same type.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "Taking a gift that makes your |C3|Heart Shots|C0| stronger, will increase the price of |C3|other Heart Shot gifts|C0| even more!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "This happens for all categories of Power Gifts!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|More to think about while you shop.",
+		},
+	],
+	"intro_love_power" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Solara has a surprise for you!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Solara has invented a |C3|Love Power Measurement Device|C0| for you!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+			"dialog"			: "Solara is well known for inventing |wave|all kinds of devices.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "Solara will show you how it works.",
+		},
+		{
+			"show_tutorial"		: "endless_love_power",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "This is your current |C3|Love Power|C0| against the endless nightmare.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "The device uses Solara's algorithm to calculate how your heart compares to the power of the nightmare.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "The most important factor is how much |C3|Love Per Second|C0| you are able to blast at those monsters!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_angry"],
+			"dialog"			: "But the nightmare keeps getting stronger after every monster you fight!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+			"dialog"			: "So your calculated |C3|Love Power|C0| will always shrink after every battle.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "That's why you will always need more gifts to keep up!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "But this is the most important part.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "Any gift that increases your |C3|Love Power over 100%|C0| will also cost more karma to take!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "The higher your |C3|Love Power|C0| goes above 100%, the more expensive all gifts will become!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Luckily, this part of the prices will go back down if you wait until it drops below 100% again.",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Solara is very proud of the |C3|Love Power Measurement Device!",
+		},
+	],
+	"intro_quick" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+			"dialog"			: "|wave|Solara can get you |C3|Quick Gifts|C0| now!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "The prices of Quick Gifts will increase separately from the other gift types.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "Quick Gifts will not change your Love Power when you buy them, because they will not be active yet.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "So, that means buying Quick Gifts will never change the prices of other gift types!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "The |C3|Love Power Measurement Device|C0| will still show you how strong your heart will be when you activate a Quick Gift.",
+		},
+	],
+	"intro_blessings" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Your happy place is now blessed with blessings!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Blessings increase in price with each Power Gift you buy, but at a much slower rate.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "But, the inverse is not true!|L||!|Buying Blessings will not permanently increase the prices of any other gifts.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "There is one thing to be careful of.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "Blessings can greatly increase your |C3|Love Power|C0| for a few battles.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "That means |C3|Love Power|C0| from Blessings can increase the prices of other gifts temporarily!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "Just be careful with the order you choose to buy your gifts.",
+		},
+	],
+	"intro_burdens" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Your happy place is now burdened with burdens!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "But, why would you want burdens?",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "That's because pulling them out of your head will |C3|give you karma|C0| instead of costing any!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "The amount of karma they give you will increase with every Power Gift you buy.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
+			"dialog"			: "Just make sure to check how they will affect your |C3|Love Power|C0| before you take one.",
+		},
+	],
+	"intro_dupes" : [
+		{
+			"unskippable"		: 1,
+			"use_textbox"		: 1,
+			"play_music"		: "yellow_scene_music",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "Solara can now find |C3|duplicates|C0| of your power gifts!",
+		},
+		{
+			"unskippable"		: 0,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "You just need to have have |C3|at least 5 gifts|C0| that can be duplicated.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "The gift that Solara can duplicate will be random every time you visit.",
 		},
 	],
 

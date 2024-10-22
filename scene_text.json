@@ -11,6 +11,7 @@
 		"[hint_love_as_char]"	: "Show love to [BOSS] as [CHAR]",
 		"[hint_meet_monster]"	: "Encounter [BOSS]'s event as [CHAR]",
 		"[hint_unlock_event]"	: "Start Story Mode after unlocking a certain event",
+		"[hint_en_shop]"		: "Continue visiting and upgrading Solara's shop",
 	},
 
 	"scene_groups" : {
@@ -21,6 +22,7 @@
 		"devil_scenes"		: "Devil Scenes",
 		"extra_scenes"		: "Extra Story Scenes",
 		"qp_scenes"			: "Quickplay Scenes",
+		"en_scenes"			: "Endless Scenes",
 	},
 	
 	"SC_blank_tut_love_a" : {
@@ -324,6 +326,55 @@
 		"name"		: "Quickplay Intro",
 		"desc"		: "The little robot tells her about quickplay.",
 		"hint"		: "Play Quickplay for the first time",
+	},
+	
+	
+	
+	
+	"SC_en_shop_first" : {
+		"name"		: "First Shop Visit",
+		"desc"		: "Solara welcomes you to your happy place.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_price1" : {
+		"name"		: "Prices Go Up",
+		"desc"		: "Solara explains how karma prices go up every time you take a gift.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_price2" : {
+		"name"		: "Prices Go Up Again",
+		"desc"		: "Solara explains how karma prices go up faster for gifts of the same type.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_love_power" : {
+		"name"		: "Love Power Device",
+		"desc"		: "Solara explains how your love power can change the cost of gifts.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_quick" : {
+		"name"		: "Quick Gifts Stocked",
+		"desc"		: "Solara now has Quick Gifts available.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_blessings" : {
+		"name"		: "Blessings Stocked",
+		"desc"		: "Solara now has Blessings available.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_burdens" : {
+		"name"		: "Burdens Stocked",
+		"desc"		: "Solara now has Burdens available",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_dupes" : {
+		"name"		: "Duplicates Stocked",
+		"desc"		: "Solara can duplicate your power gifts now.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_remove" : {
+		"name"		: "Removing Gifts",
+		"desc"		: "Solara explains why you would want to remove gifts.",
+		"hint"		: "[hint_en_shop]",
 	},
 
 }
