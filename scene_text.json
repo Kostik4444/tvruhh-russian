@@ -1,0 +1,329 @@
+{
+
+	"scenes_viewed"		: "Scenes Unlocked",
+	"locked_hint"		: "???\nSome things are still unknown to you",
+	
+	"common_hints" : {
+		"[hint_story_any]"		: "Continue Story Mode as any character",
+		"[hint_story_char]"		: "Continue Story Mode as [CHAR]",
+		"[hint_heartbreak]"		: "Heartbreak in Story Mode as [CHAR]",
+		"[hint_find_as_char]"	: "Encounter [BOSS] as [CHAR]",
+		"[hint_love_as_char]"	: "Show love to [BOSS] as [CHAR]",
+		"[hint_meet_monster]"	: "Encounter [BOSS]'s event as [CHAR]",
+		"[hint_unlock_event]"	: "Start Story Mode after unlocking a certain event",
+	},
+
+	"scene_groups" : {
+		"tutorial_scenes"	: "Tutorial Scenes",
+		"blank_scenes"		: "Her Heart Scenes",
+		"defect_scenes"		: "Defect Scenes",
+		"twin_scenes"		: "Twin Heart Scenes",
+		"devil_scenes"		: "Devil Scenes",
+		"extra_scenes"		: "Extra Story Scenes",
+		"qp_scenes"			: "Quickplay Scenes",
+	},
+	
+	"SC_blank_tut_love_a" : {
+		"name"		: "How to Love A",
+		"desc"		: "A little robot wants to teach her the basics of love.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_love_b" : {
+		"name"		: "How to Love B",
+		"desc"		: "A trial battle to love the little robot.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_gifts" : {
+		"name"		: "Power Gifts",
+		"desc"		: "The little robot explains how Power Gifts work.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_karma" : {
+		"name"		: "Monster Karma",
+		"desc"		: "The little robot explains how karma works.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_bonus" : {
+		"name"		: "Bonus Gifts",
+		"desc"		: "The little robot explains how Bonus Gifts work.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_quick" : {
+		"name"		: "Quick Gifts",
+		"desc"		: "The little robot explains how Quick Gifts work.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_challenge" : {
+		"name"		: "Monster Challenges",
+		"desc"		: "The little robot explains monster gift challenges.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_bounty" : {
+		"name"		: "Bounty Gifts",
+		"desc"		: "The little robot explains how Bounty Gifts work.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_tetrids" : {
+		"name"		: "Radiating Cards",
+		"desc"		: "The little robot wakes her up early to explain how to radiate gifts and monsters.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_quick_rad" : {
+		"name"		: "Radiating Quick Gifts",
+		"desc"		: "The little robot explains the special effects of radiating Quick Gifts.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_score" : {
+		"name"		: "Earning a High Score",
+		"desc"		: "A little robot teaches her about extracting motes.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_dreams" : {
+		"name"		: "Fulfilling Dreams",
+		"desc"		: "A little robot teaches her to fulfill her own dreams and the dreams of monsters.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_shy" : {
+		"name"		: "Shy Battles",
+		"desc"		: "The little robot explains the unique love combo rules of a shy battle.",
+		"hint"		: "[hint_story_any]",
+	},
+	"SC_blank_tut_shiny" : {
+		"name"		: "Shiny Battles",
+		"desc"		: "The little robot explains the unique rules of a shiny battle.",
+		"hint"		: "[hint_story_any]",
+	},
+	
+	
+	
+	
+	"SC_blank_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a Zaraden woman.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro2" : {
+		"name"		: "Intro 2",
+		"desc"		: "The Zaraden wakes up in her cave the next day. The little robot is surprised that the Zaraden remembers her.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro3" : {
+		"name"		: "Intro 3",
+		"desc"		: "The Zaraden wakes up again. The rain starts to worry her, but the little robot gives her hope.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro4" : {
+		"name"		: "Intro 4",
+		"desc"		: "The Zaraden wakes up again. The little robot consoles her as the constant rain begins to take a toll on her.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Her Heart break.",
+		"hint"		: "[hint_heartbreak]",
+	},
+	"SC_blank_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains how her powers can help the Zaraden.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains how her powers can help the Zaraden.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes the Zaraden to her art gallery.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X wants to play a game with her.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes the Zaraden to her observatory.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_void_a" : {
+		"name"		: "Meet The Void 1",
+		"desc"		: "The Zaraden meets The Void for the first time?",
+		"hint"		: "[hint_find_as_char]",
+	},
+	"SC_blank_void_b" : {
+		"name"		: "Meet The Void 2",
+		"desc"		: "The Zaraden meets The Void again on another day.",
+		"hint"		: "Encounter The Void a second time as Her Heart",
+	},
+	"SC_blank_void_end1" : {
+		"name"		: "Void Ending",
+		"desc"		: "She loved The Void.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_blank_totaria_a" : {
+		"name"		: "Meet Totaria",
+		"desc"		: "The Zaraden meets Totaria for the first time.",
+		"hint"		: "[hint_find_as_char]",
+	},
+	"SC_blank_totaria_end1" : {
+		"name"		: "Totaria Ending",
+		"desc"		: "She loved Totaria?",
+		"hint"		: "[hint_love_as_char]",
+	},
+	
+	
+	
+	
+	"SC_defect_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a defective Zaraden woman.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Defect's heart break.",
+		"hint"		: "[hint_heartbreak]",
+	},
+	"SC_defect_tut1" : {
+		"name"		: "Defective Love?",
+		"desc"		: "A little robot teaches Defect about the elements of love.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_tut2" : {
+		"name"		: "Beautiful Veyeral",
+		"desc"		: "The most beautiful Veyeral joins Defect and gives her the gift of Adamant Will.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains her link synapse powers to Defect.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains her link synapse powers to Defect.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes Defect to her art gallery.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X learns to love Blue Veyeral.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes Defect to her observatory.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_void_end_1a" : {
+		"name"		: "Void Ending A",
+		"desc"		: "Defect loved The Void?",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_void_end_1b" : {
+		"name"		: "Void Ending B",
+		"desc"		: "Defect battles against the most powerful void.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_void_end_1c" : {
+		"name"		: "Void Ending C",
+		"desc"		: "But she did not love herself.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_totaria_end1" : {
+		"name"		: "Totaria",
+		"desc"		: "Defect loved Totaria.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	
+	
+	
+	
+	"SC_mysterious_intro" : {
+		"name"		: "Mysterious Message",
+		"desc"		: "A message sent from a device that communicates through dreams.",
+		"hint"		: "[hint_story_any]",
+	},
+	"SC_scrambla_intro" : {
+		"name"		: "Dream of Scrambla",
+		"desc"		: "Scrambla talks to you through a dream. She wants to help you.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_scrambla_max_synapse" : {
+		"name"		: "Fully Powered Scrambla",
+		"desc"		: "Scrambla has a confession to make when her link synapse is fully powered.",
+		"hint"		: "Fully upgrade Scrambla's Link Synapse",
+	},
+	"SC_boiler_intro" : {
+		"name"		: "Dream of Boiler",
+		"desc"		: "Boiler talks to you through a dream. She wants to help you.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_boiler_max_synapse" : {
+		"name"		: "Fully Powered Boiler",
+		"desc"		: "Boiler has a confession to make when her link synapse is fully powered.",
+		"hint"		: "Fully upgrade Boiler's Link Synapse",
+	},
+	"SC_blot_intro" : {
+		"name"		: "Dream of Blot",
+		"desc"		: "Blot talks to you through a dream. She wants you to visit her art gallery.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_vitrea_intro" : {
+		"name"		: "Dream of Vitrea",
+		"desc"		: "With the help of Amalga, Vitrea talks to you through a dream. She wants you to visit her observatory.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_vitrea_upgrade1" : {
+		"name"		: "Vitrea's Backrooms",
+		"desc"		: "Vitrea explains where she keeps your gift donations.",
+		"hint"		: "Upgrade the backroom dimension in Vitrea's Observatory once",
+	},
+	"SC_vitrea_upgrade2" : {
+		"name"		: "Vitrea's Secret",
+		"desc"		: "You discover the secret that Vitrea has hidden in Amalga's backroom dimension.",
+		"hint"		: "Upgrade the backroom dimension in Vitrea's Observatory to maximum capacity",
+	},
+	"SC_sentinel_intro" : {
+		"name"		: "Dream of Sentinel",
+		"desc"		: "Sentinel 4X sends you a friend request through a dream.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_anomaly_intro" : {
+		"name"		: "Anomalous Message",
+		"desc"		: "For you.\nLove, Anomaly.",
+		"hint"		: "Encounter a certain event for the first time",
+	},
+	"SC_extra_void_end1" : {
+		"name"		: "Extra Void Ending 1",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a second time.",
+		"hint"		: "Defeat The Void twice in Story Mode as any characters",
+	},
+	"SC_extra_void_end2" : {
+		"name"		: "Extra Void Ending 2",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a fifth time.",
+		"hint"		: "Defeat The Void five times in Story Mode as any characters",
+	},
+	"SC_credits1" : {
+		"name"		: "Credits A",
+		"desc"		: "Simple ending credits",
+		"hint"		: "[hint_story_any]",
+		"credit"	: "Created by\nAngel Polanco",
+	},
+	
+	
+	
+	
+	"SC_quickplay_intro" : {
+		"name"		: "Quickplay Intro",
+		"desc"		: "The little robot tells her about quickplay.",
+		"hint"		: "Play Quickplay for the first time",
+	},
+
+}
