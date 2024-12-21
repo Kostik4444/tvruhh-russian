@@ -38,7 +38,9 @@
 		"sub_story_feats"	: "Story Feats",
 		"sub_story_events"	: "Story Events",
 		"sub_monster_events": "Monster Events",
+		"sub_monster_gifts" : "Monster Gifts",
 		"sub_monster_trades": "Monster Trades",
+		"sub_monster_bonds" : "Monster Bonding",
 		
 		"main_victories"	: "Story Victories",
 		"sub_void_wins"		: "The Void Victories",
@@ -1197,34 +1199,6 @@
 		"name"    : "Forbidden Knowledge",
 		"desc"    : "Answer a total of 50 questions correctly in Sentinel's Quiz",
 	},
-	"DR_bonding_time1" : {
-		"name"    : "Time's Up Already?",
-		"desc"    : "Complete a Bonding Time event for the first time",
-	},
-	"DR_bonding_t1" : {
-		"name"    : "5 Bonding Time Gifts",
-		"desc"    : "Accept a total of 5 gifts from any Bonding Time events",
-	},
-	"DR_bonding_t2" : {
-		"name"    : "30 Bonding Time Gifts",
-		"desc"    : "Accept a total of 30 gifts from any Bonding Time events",
-	},
-	"DR_bonding_t3" : {
-		"name"    : "90 Bonding Time Gifts",
-		"desc"    : "Accept a total of 90 gifts from any Bonding Time events",
-	},
-	"DR_bonding_kiwi" : {
-		"name"    : "A Critical Roll!",
-		"desc"    : "Get a total of 20 critical hits or full heals in Kiwi's game",
-	},
-	"DR_bonding_split" : {
-		"name"    : "Veyeral Games",
-		"desc"    : "Win 5 of Split Veyeral's minigames",
-	},
-	"DR_bonding_voltage" : {
-		"name"    : "Can't Resist the Current",
-		"desc"    : "Fully charge or fully discharge Voltage Veyeral 4 times",
-	},
 	
 	
 	"DR_trade_t1" : {
@@ -1279,6 +1253,8 @@
 		"name"    : "Vibrant Trade",
 		"desc"    : "Accept any traded gift from Vibrant Veyeral",
 	},
+	
+	
 	"DR_visit_t1" : {
 		"name"    : "8 Free Gifts!",
 		"desc"    : "Receive a total of 8 free gifts from any monsters",
@@ -1330,6 +1306,44 @@
 	"DR_venom_visit" : {
 		"name"    : "Pour Some Venom On Me",
 		"desc"    : "Accept a free gift from Venom Veyeral",
+	},
+	
+	
+	"DR_bonding_time1" : {
+		"name"    : "Time's Up Already?",
+		"desc"    : "Complete a Bonding Time event for the first time",
+	},
+	"DR_bonding_t1" : {
+		"name"    : "5 Bonding Time Gifts",
+		"desc"    : "Accept a total of 5 gifts from any Bonding Time events",
+	},
+	"DR_bonding_t2" : {
+		"name"    : "15 Bonding Time Gifts",
+		"desc"    : "Accept a total of 15 gifts from any Bonding Time events",
+	},
+	"DR_bonding_t3" : {
+		"name"    : "40 Bonding Time Gifts",
+		"desc"    : "Accept a total of 40 gifts from any Bonding Time events",
+	},
+	"DR_bonding_t4" : {
+		"name"    : "90 Bonding Time Gifts",
+		"desc"    : "Accept a total of 90 gifts from any Bonding Time events",
+	},
+	"DR_bonding_dot" : {
+		"name"    : "I Know The Pieces Fit",
+		"desc"    : "Get a 90% rating or higher on 4 of Dot's hugs in a single visit",
+	},
+	"DR_bonding_kiwi" : {
+		"name"    : "A Critical Roll!",
+		"desc"    : "Get a total of 20 critical hits or full heals in Kiwi's game",
+	},
+	"DR_bonding_split" : {
+		"name"    : "Veyeral Games",
+		"desc"    : "Win 5 of Split Veyeral's minigames",
+	},
+	"DR_bonding_voltage" : {
+		"name"    : "Can't Resist the Current",
+		"desc"    : "Fully charge or fully discharge Voltage Veyeral 4 times",
 	},
 	
 	
@@ -2531,7 +2545,7 @@
 	},
 	"DR_hematoren1" : {
 		"name"    : "Sprinkler System",
-		"desc"    : "During a level 6 battle or higher with Hematoren, only break her lower blood orb and then defeat her without taking damage",
+		"desc"    : "During a level 6 battle or higher with Hematoren, only break her lower blood orb and defeat her without taking damage",
 	},
 	"DR_hematoren2" : {
 		"name"    : "Bleeding Me",

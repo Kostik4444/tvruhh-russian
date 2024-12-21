@@ -911,6 +911,7 @@
 		"total_motes"		: "Total Motes",
 		"minigame_win"		: "Minigames won",
 		"minigame_lose"		: "Minigames Lost",
+		"perfect_hugs"		: "Perfect Hugs",
 		"voltage_max"		: "Max Voltage",
 		"voltage_min"		: "Min Voltage",
 		"turns_taken"		: "Turns Taken",

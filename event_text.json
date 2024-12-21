@@ -334,6 +334,14 @@
 	
 	
 	
+	"E_bond_dot" : {
+		"name"		: "Embracing Dot",
+		"hint"		: "[hint_chance]",
+		"details"	: "I always wake up with Dot's long arms wrapped tightly around me. Sometimes, she comes back to me later in the day and asks me to help her practice hugging. I know it stresses her out when they aren't perfect, but I hope she allows herself figure out the real secret one day. They are always perfect!|L||L|But for now, I'd never turn down a free hug. Even if her thorns scratch me a little.",
+		"rule1"		: "[rule_bonding1]",
+		"rule2"		: "[rule_bonding2]",
+		"rule3"		: "[rule_bonding3]",
+	},
 	"E_bond_kiwi" : {
 		"name"		: "Kiwi's Playhouse",
 		"hint"		: "[hint_chance]",
