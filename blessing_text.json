@@ -1,0 +1,547 @@
+{
+
+	"BLS_her_love" : {
+		"name"	  : "Her Love",
+		"memory"  : "I don't know what happens to me outside of the dreams, but I've stopped worrying so much about it. Sometimes, I wake up next to a pile of gifts and no one else in sight. Other times, I wake up tangled in a loving embrace. I rarely wake up with a scratch, but those monsters always stay the longest making sure I'm okay.",
+		"card"    : "Radiant Hearts|L|Shoot an extra heart",
+	},
+	"BLS_painted_artist" : {
+		"name"	  : "Painted Artist",
+		"memory"  : "She came for a surprise visit while I was in the middle of painting. She started laughing hysterically after seeing me covered in every color of paint. I got a little flustered and splashed some paint on her, but she just kept laughing. She grabbed a paintbrush, and splashed more paint on me. Now my heart was fluttering, and I couldn't help but start laughing myself. We were both covered in paint soon after.",
+		"card"    : "All Dmg. +[VAL1]% and Max Health +[VAL2] after battles",
+	},
+	"BLS_flawless" : {
+		"name"	  : "Flawless",
+		"memory"  : "I can't remember anything. All my memory from before a few days ago is a jumbled mess. This Veyeral, Blue, says she is my friend. She's so sweet to me. Why do I feel like I don't deserve any of this? At the same time, I get so mad at myself for even thinking that.",
+		"card"    : "Health will quickly regenerate",
+	},
+	"BLS_perfect_gift" : {
+		"name"	  : "Perfect Gift",
+		"memory"  : "I can tell Blue is upset about something, but she just goes on about how everything is perfectly fine.|L||L|My head hurts a little today, and it was kinda hard to wake up after some of those dream battles.",
+		"card"    : "1 Blue helper|L|Full combos give you more!",
+	},
+	"BLS_siblings" : {
+		"name"	  : "Siblings",
+		"memory"  : "Ready for more dates?|L|Then what would you call them?|L|How is that not a date?|L|And I know you were crushing on the last three at least.|L|Oh Sunshine, you are so easy to read.|L|(How can she really believe that?)",
+		"card"    : "[VAL1] Cross Twins that attack if you get hurt",
+	},
+	"BLS_sunshine" : {
+		"name"	  : "Sunshine",
+		"memory"  : "They aren't dates!|L|I'm just showing them love, so they can figure it out themselves.|L|Uhm, because-|L|Uh, h-how would you know that?|L|It's not like they would like me that way anyways.|L|What's that look for?",
+		"card"    : "Energize +[VAL1]%",
+	},
+	"BLS_tenacious" : {
+		"name"	  : "Tenacious",
+		"memory"  : "Once every hundred thousand years or so, when the sun doth shine, and the moon doth glow, and the grass doth grow, a devil shall ascend from below, with an army of condemned monsters in tow. They shall put on the greatest show in the world!|L||L|Yeah, this is a real prophecy!",
+		"card"    : "Star rate bar drains slower",
+	},
+	"BLS_demonic_fury" : {
+		"name"	  : "Demonic Fury",
+		"memory"  : "The first night was painful. I heard some digging noises all night, but I couldn't even move my body to investigate. I woke up next to some slimy dirt covered bandages, and three sweet fruits. It sounds gross, but that slime felt so good on my cuts. Now that I think about it, I'm pretty sure it was Rendy drool.",
+		"card"    : "Burning Aura|L|All Damage +[SPEC2]% at low health",
+	},
+	
+	
+	
+	
+	"BLS_twinkle" : {
+		"name"	  : "Twinkle",
+		"memory"  : "I was captivated by the stars reflected in her petals again. She caught me staring for a little too long. I thought it was hard to tell where I'm looking exactly, but she said the stars in my lenses show her where my eyes are pointed. I was so embarrassed! How could my stars betray me like that?",
+		"card"    : "Crit. Rate +[VAL1]%|L|Crit. Dmg. +[VAL2]%",
+	},
+	"BLS_tattoo" : {
+		"name"	  : "Tattoo",
+		"memory"  : "Remember when we were laughing and playing together, and then I started tracing my finger along the patterns on your skin? Then you looked into my eyes for what felt like forever. Then I woke up and realized it didn't happen.|L|Ahhh! Dreams are the worst!",
+		"card"    : "Crit. Rate +[VAL1]%|L|Crit. Dmg. +[VAL2]%|L|Larger Crits",
+	},
+	"BLS_secret" : {
+		"name"	  : "Secret",
+		"memory"  : "Well, she saw it. And Amalga knows too. She probably always knew. There's no point in trying to hide it anymore. I have to say, it feels really good to have this out in the open.",
+		"card"    : "Crit. Rate +[VAL1]%|L|Crit. Dmg. +[VAL2]%|L|Larger Crits",
+	},
+	"BLS_love_glyph" : {
+		"name"	  : "Love Glyph",
+		"memory"  : "|C3||ai||lu||ai| (Ailuai) |C0|I love you|L||C3||ai||lu||za||ai| (Ailuzai) |C0|I love her|L||C3||hai||lu| (Hailu) |C0|Center|L||C3||lu||lu| (Lulu) |C0|Cute|L||C3||lu||lu||lu| (Lululu) |C0|Infatuation|L||C3||ai||fu||ai| (Aifuai) |C0|I wuv you|L||C3||fu||den| (Fuden) |C0|Pink-ish|L||C3||hai||fu| (Haifu) |C0|Off center",
+		"card"    : "Heart Rate +[VAL1]|L|Max Health +[VAL3]",
+	},
+	"BLS_love_love" : {
+		"name"	  : "Love Love",
+		"memory"  : "With this, Lulu should be able to remember everything. Technically, she will be reminded every day, but that's essentially the same thing. Now I can only hope that they will eventually find the source of this problem together.",
+		"card"    : "Heart Rate +[VAL1]|L|Crit. Rate +[VAL2]%|L|Split Hearts +[VAL3]",
+	},
+	"BLS_infatuation" : {
+		"name"	  : "Infatuation",
+		"memory"  : "That Zaraden is such a sweetheart. I see her going around showering us poor monsters with affection. They are usually all too scared to interact with each other at all. I guess I was really no different, but watching her work her magic is doing something to me! I think I'm going to ask her out on a date!",
+		"card"    : "Heart Rate +[VAL1]|L|Crit. Rate +[VAL2]%|L|Backward Shots",
+	},
+	"BLS_wing_glyph" : {
+		"name"	  : "Wing Glyph",
+		"memory"  : "|C3||ris||ris| (Risis) |C0|Beautiful|L||C3||ris||ris||ris| (Risisis) |C0|Divine|L||C3||ris||ral| (Risral) |C0|Perfect|L||C3||tis||ral| (Tisral) |C0|Imperfect|L||C3||vai||ris| (Vairis) |C0|Ugly|L||C3||nu||ris| (Nuris) |C0|Wingless|L||C3||ris||den| (Risden) |C0|Vibrant|L||C3||tis||den| (Tisden) |C0|Sparkling",
+		"card"    : "Feather Rate +[VAL1]|L|Range up",
+	},
+	"BLS_beautiful" : {
+		"name"	  : "Beautiful",
+		"memory"  : "Those ugly little wings, and those ugly tiny feathers with those ugly little bulbs at the ends, and that ugly pale skin, and that ugly pink hair, and those ugly little pointy antennae sticking out.|L|Oh no.|L|Oh No!|L|OH NO!|L|The lies aren't working anymore. She's the most beautiful thing I've ever seen.",
+		"card"    : "Feather Rate +[VAL1]|L|1 Extra Plume|L|Range up",
+	},
+	"BLS_divine" : {
+		"name"	  : "Divine",
+		"memory"  : "It's such an innocuous memory. All she did was stand up, hold her hands together, and stretch her arms upwards over her head. Then all six of her wings spread out to their limits. They radiated in all directions behind her. I was in awe! I have to paint this! I want to look at this forever! Then I snapped out of it when I heard that silly groan she always does when stretching. It always makes me laugh.",
+		"card"    : "Feather Rate +[VAL1]|L|[VAL2] Extra Plumes|L|Range up",
+	},
+	"BLS_sound_glyph" : {
+		"name"	  : "Sound Glyph",
+		"memory"  : "|C3||sin||sin| (Sinsin) |C0|Repeat|L||C3||sin||shin| (Sinshin) |C0|Echo|L||C3||sin||sin||sin| (Sinsinsin) |C0|Resonance|L||C3||sin||lin| (Sinlin) |C0|Music|L||C3||shin||lin| (Shinlin) |C0|Sing|L||C3||teh||sin| (Tehsin) |C0|Quiet|L||C3||rah||sin| (Rahsin) |C0|Loud|L||C3||sin||hai| (Sinhai) |C0|Volume|L||C3||nu||sin| (Nuusin) |C0|Silence",
+		"card"    : "Wavy star shots|L|Min Rate +[VAL2]|L|Max Rate +[VAL3]",
+	},
+	"BLS_echoes" : {
+		"name"	  : "Echoes",
+		"memory"  : "Two Zaraden found me today. They were asking me weird questions about my wings. I was getting really nervous. What could I do to get away from them? I was getting so scared. Suddenly that horrible scream echoed across the whole forest. It was so loud that my antennae were buzzing for a while, but at least it scared them away. I don't know what made that noise, but those Zaraden never came back.",
+		"card"    : "Wavy star shots|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"BLS_resonance" : {
+		"name"	  : "Resonance",
+		"memory"  : "Let's see-|L|Syncron and Photoxai can run the lights. Hadesoh and maybe Calorie on pyrotechnics. Frozen Veyerals on the fog machine. Who can I teach the instruments to? Astrayo on drums? She has enough arms, but I don't think we can all keep up with a million beats per minute. Joule looks like a bass player...|L||L|Ahh! I don't know yet! My brain is already tired.",
+		"card"    : "Wavy star shots|L|Max Rate +[VAL2]|L|Rate Time -[VAL3]%",
+	},
+	"BLS_power_glyph" : {
+		"name"	  : "Power Glyph",
+		"memory"  : "Stick this one on any other word and make it bigger, louder, and more powerful!|L||C3||rah||nah||hai| (Ranahai) |C0|Long distance|L||C3||rah||tar| (Rahtar) |C0|Many|L||C3||rah||rah||tar| (Rarahtar) |C0|Infinite|L||C3||rah||dis| (Rahdis) |C0|Amplify|L||C3||rah||teh| (Rahteh) |C0|Tiny|L||C3||rah||rah||teh| (Rarahteh) |C0|Microscopic",
+		"card"    : "Max Energy +[VAL1]|L|Energize +[VAL2]%|L|Charge Dmg. +[VAL3]%",
+	},
+	"BLS_explosive" : {
+		"name"	  : "Explosive",
+		"memory"  : "|C3||rah||rah| (Rahra) |C0|Explosion|L||C3||rah||den| (Rahden) |C0|Colorful/Significant|L||C3||za||rah||den| (Zaraden) |C0|Colorful being|L||C3||nu||rah||den| (Nuraden) |C0|Monster|L||C3||rah||ai||za| (Raiza) |C0|Plead|L||C3||ai||rah||ai||za| (Airaiza) |C0|I beg of you|L||C3||la||rah| (Larah) |C0|Long time|L||C3||la||rah||rah| (Lararah) |C0|Forever/Endless|L||C3||nu||la||za||rah| (Nulazarah) |C0|Long ago",
+		"card"    : "Burn Charge|L|Charge Dmg. +[VAL2]%|L|Faster Charging",
+	},
+	"BLS_wonderful" : {
+		"name"	  : "Wonderful",
+		"memory"  : "|C3||rah||rah||rah| (Rahrara) |C0|Wonderful|L||C3||tah||den| (Tahden) |C0|Noticeable|L||C3||tah||den||nah| (Tadena) |C0|Attention|L||C3||za||tah||den| (Zataden) |C0|To pay attention|L||C3||tah||lu||nah| (Taluna) |C0|Affection|L||C3||za||tah||lu| (Zatalu) |C0|To show affection|L||C3||nu||tah||den| (Nutaden) |C0|Insignificant|L||C3||tah||ai||za| (Taiza) |C0|Demand|L||C3||ai||tah||ai||za| (Aitaiza) |C0|I command you to",
+		"card"    : "Double Charge!|L|Faster Charging|L|Combo timer up",
+	},
+	
+	
+	
+	
+	"BLS_scrambla" : {
+		"memory"  : "She did not run away. Oh, dat's so warm. We love dis embrace.|L||L|We want to help her.",
+		"card"    : "Gain a Scrambla helper|L|Toxic Def. +[VAL3]",
+	},
+	"BLS_shy_scrambla" : {
+		"memory"  : "She put dis one back together. In all worlds, she put Scrambla back together.",
+		"card"    : "Gain [VAL1] Scrambla helpers|L|Toxic Def. +[VAL3]",
+	},
+	"BLS_boiler" : {
+		"memory"  : "We know dis one burns, but she holds us anyway. We will forgive dis fire safety hazard one time.",
+		"card"    : "Gain a Boiler helper|L|Burn Def. +[VAL3]",
+	},
+	"BLS_rage_boiler" : {
+		"memory"  : "She is da most spicy! Even through da fire and flames, she carries on.",
+		"card"    : "Powerful Crits!|L|Crit. Rate +[VAL4]%|L|Burn Def. +[VAL5]",
+	},
+	"BLS_knot_knott" : {
+		"memory"  : "Knot, there is no one who can take us away from you. Do you understand how loved you really are now?",
+		"card"    : "Shoot an extra wavy heart that splits",
+	},
+	"BLS_shiny_knots" : {
+		"memory"  : "We know you would never leave us. Our mind can't help but go to the worst places. We are trying our best to stop that. We can do better.",
+		"card"    : "Automatic panic attacks|L|+1 Panic",
+	},
+	"BLS_blot" : {
+		"memory"  : "That cutie is like a perfect blank canvas. We need to slather her with color!|L||L|Wait Blot, we have to ask before doing something like that. Sigh... That's never happening. We can still dream...",
+		"card"    : "All defenses +[VAL1]|L|Heal [VAL6]%",
+	},
+	"BLS_alter_blot" : {
+		"memory"  : "She's right, these colors are just as pretty as any other. The world would be missing so much without them!",
+		"card"    : "Max Health +[VAL1] inspired after each battle",
+	},
+	"BLS_null_blot" : {
+		"memory"  : "Seeing the way she expresses love has given us new motivation! We want to give that cutie such a smooch right on her lips. We really really want to, but we know that can never happen...",
+		"card"    : "All Damage +[VAL1]% inspired after each battle",
+	},
+	"BLS_amalga" : {
+		"memory"  : "You've given us so much. How can we possibly repay this?|L||L|Are you thirsty? Wait, did you eat yet today? But it's so late! Sit down right now. You are not leaving our sight hungry. We sent our arm to get you some food.",
+		"card"    : "+1 Stock Denial|L|+1 Stock Revive|L|Fully Heal",
+	},
+	"BLS_calorie" : {
+		"memory"  : "We slept so peacefully with her dreams. The burning has stopped, at least for the moment. We are in control of our fire now.",
+		"card"    : "Burn Charge|L|Max Energy +[VAL2]|L|Energize +[VAL3]%",
+	},
+	"BLS_joule" : {
+		"memory"  : "She is an infinite well of power. There is no theoretical limit. Her vibes are completely asymptotic. She can share more than I could ever want.",
+		"card"    : "Zap Charge|L|Max Energy +[VAL2]|L|Energize +[VAL3]%",
+	},
+	"BLS_shiny_joule" : {
+		"memory"  : "We probably all come to the same conclusion every single day, but the beauty of this power is that it can be replicated and shared so easily. What's most fascinating is that the amount of love received is always greater than the amount shared. The act of sharing it increases the total amount!",
+		"card"    : "Max Energy +[VAL1]|L|Charging time -[VAL2]%",
+	},
+	"BLS_emerald" : {
+		"memory"  : "So this is the feeling of pride? Yes, you deserve to feel proud of how far you've come. Try to stay humble by remembering all the mistakes you've overcome so far, and thank the ones who helped you along the way.",
+		"card"    : "Max Health +2 after being hurt|L|(Once per battle)",
+	},
+	"BLS_shamra" : {
+		"memory"  : "Do we like this feeling? We do like this feeling. We love this feeling actually. We love love. It was scary at first. No it was thrilling actually. Yes we agree.",
+		"card"    : "Max Health +2 after being hurt|L|(Two per battle)",
+	},
+	
+	
+	
+	
+	"BLS_rendy" : {
+		"memory"  : "Wait! Rendy can have cuddles?|L|Embrace the mite cuddles!|L||L|This is all Rendy has ever wanted.",
+		"card"    : "Your combo can attract up to [VAL1] mite helpers",
+	},
+	"BLS_shiny_rendy" : {
+		"memory"  : "Did you see how fast Rendy can dig? Rendy probably deserve a lot of cuddles for that, huh?",
+		"card"    : "Attract up to [VAL1] mite helpers|L|+[VAL3] Chrome hearts",
+	},
+	"BLS_snowball" : {
+		"memory"  : "Accept our most humble of apologies. We did not consider that you were seeking an audience with The Queen of Frostmites herself, Snowball The First. And with such warmth, did you wish to join her court as her most royal thermostat?|L|Splendid answer!",
+		"card"    : "Your combo can attract up to [VAL1] mite helpers",
+	},
+	"BLS_shiny_snowball" : {
+		"memory"  : "We shall grant thee access to the entirety of our royal army. Their absence is of little consequence for thine wonderous somnipathy. Conjuring our royal army is but a simple task for The Curator of Slumber.",
+		"card"    : "Attract up to [VAL1] mite helpers|L|+[VAL3] Chrome hearts",
+	},
+	"BLS_roundsaw" : {
+		"memory"  : "What this? Is the most powerful move Roundsaw ever seen!|L||L|Hug? Roundsaw defeated by hug! Roundsaw needs more!",
+		"card"    : "All Damage +[VAL1]%|L|Crit. Rate +[VAL2]%|L|Shot Speed +[VAL3]%",
+	},
+	"BLS_alter_roundsaw" : {
+		"memory"  : "One more hug, please!|L|Okay, now one more.|L|Wait, just two more. Three times.|L||L||shake|Prrrrrrrrrr|norm|",
+		"card"    : "All Damage +[VAL1]%|L|Crit. Rate +[VAL2]%|L|Shot Speed +[VAL3]%",
+	},
+	"BLS_null_roundsaw" : {
+		"memory"  : "You give Roundsaw hug if you want. Roundsaw not care either way...|L|But you do want, yes?|L||L||shake|Prrrrrrrrrr|norm|",
+		"card"    : "All attacks become Void|L|Crit. Rate +[VAL2]%",
+	},
+	"BLS_lila" : {
+		"memory"  : "Eye feel so happy!|L|Ish deserve this happy?|L|But, Ish failed to guard...|L|Is okee! This Zaraden safe.",
+		"card"    : "Max Health +[VAL1]|L|+[VAL3] Panics",
+	},
+	"BLS_shy_lila" : {
+		"memory"  : "Ish come back. Heard from a little eyeball you has feed? Ish can have feed?",
+		"card"    : "Helper Dmg. +[VAL1]%|L|Helper shot rate +[VAL2]%",
+	},
+	"BLS_sandrome" : {
+		"memory"  : "I must grow longer. More surface area is better cuddles. I will give better cuddles.",
+		"card"    : "Max Health +[VAL1]|L|Max Energy +[VAL3]|L|(Permanent)",
+	},
+	"BLS_voladrome" : {
+		"memory"  : "I can guard.|L|I can guard so much at a time!|L|I will guard you now!",
+		"card"    : "+2 Denial shields|L|(1 is stock)",
+	},
+	"BLS_shanx" : {
+		"memory"  : "Oh, you are such a darling!|L|I've been growing it for years.|L|Oh, you stop it! Can't you see I'm already blushing. You are the cute one here, darling.",
+		"card"    : "Feather Rate +[VAL1]|L|Crit. Rate +[VAL2]%",
+	},
+	"BLS_alter_shanx" : {
+		"memory"  : "Alright, I'll admit it, darling. I am afraid of lightning.|L||L|You too, really? I simply refuse to believe you are afraid of anything, darling. Though I must say, it does feel good to know I'm not the only one.",
+		"card"    : "Wavy Zap Stars|L|Crit. Rate +[VAL3]%|L|Crit. Dmg. +[VAL4]%",
+	},
+	"BLS_ruby" : {
+		"memory"  : "So this is the feeling of content? This is a wonderful feeling. It is the feeling of having everything you could ever hope for. At least for a moment. Many others have so much more than you, and yet they still can't feel this. You are very lucky.",
+		"card"    : "Power grows every time you get hurt",
+	},
+	"BLS_guardian_soul" : {
+		"memory"  : "This feeling... I need to go protect something. Why does it need to be protected? And why do I have to do it? Because, I am the only one who can.",
+		"card"    : "Power grows every time you get hurt",
+	},
+	
+	
+	
+	
+	"BLS_photoxai" : {
+		"memory"  : "Wow wow!|L|You are so cute! I have to take a photo of you. Just stand there like that. Look at my glyph.|L||L|Okay okay, that's five of them. Next pose!",
+		"card"    : "+[VAL1] Photo Stones|L|Radiant Def. +[VAL3]",
+	},
+	"BLS_dendrohai" : {
+		"memory"  : "Showing love is actually the most efficient option in all possible situations. I even figured out the perfect distance. Come a little closer. Closer. Now put your arms around me. See? This is the most efficient distance for showing love.",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL2]%|L|Immunity up",
+	},
+	"BLS_hematoren" : {
+		"memory"  : "Is that a scratch? Oh no! Your love noodles are leaking!|L|I will kiss the wound and heal it.|L|No, really! I can do that.|L||L|Okay, I just wanted a little taste. Please, best friend?",
+		"card"    : "Crit. Rate +[VAL1]%|L|Max Health +[VAL2]|L|Heal [VAL3]%",
+	},
+	"BLS_ombroah" : {
+		"memory"  : "So, this rain isn't my fault?|L|Really? Every single day? Aww, you are so sweet to me.|L|No, I'm not worried. I know you will figure this out. We are all lucky to have you here.|L||L|Do... you want to stay with me under my umbrella for a little while?",
+		"card"    : "Large safety bubble",
+	},
+	"BLS_lavalin" : {
+		"memory"  : "Wait, don't let go yet. I don't know why, but I feel like nothing bad will happen as long as you hold me.|L||L|Okay, you're right. You should go let others feel this way too. I think I will be okay now.",
+		"card"    : "[VAL1] Random bonus effects after every battle",
+	},
+	"BLS_heliola" : {
+		"memory"  : "I don't like to be the center of attention, but I did like the way she looked at me. I can provide some light for her if she needs it. She just did so much for me. I think I can do something for others too. Maybe if they are happy to see me, then the attention will actually feel good?",
+		"card"    : "Helpers will orbit around you|L|[VAL2] Burn Helpers",
+	},
+	"BLS_chemory" : {
+		"memory"  : "I thought I could only make you worse, but instead you made me better. We are bonded forever now!|L||L|I was silly to think I had to stay in that toxic state. I've always had the power to change everything around me.",
+		"card"    : "Toxic Feathers|L|1 Extra Plume|L|Range up",
+	},
+	"BLS_hadesoh" : {
+		"memory"  : "What did you just do to me? What in the actual |shake||nu||ze||nah||norm| was that?!|L||L|Oh, sorry! Did that make you uncomfortable?|L|That's great! I'm just so relaxed around you now. I can just let it all out, ya know? This feels so |shake||nu||ze||nah||norm| good!",
+		"card"    : "Large Burn Aura|L|Burn Def. +[VAL2]|L|+[VAL3] panics",
+	},
+	"BLS_chionotoh" : {
+		"memory"  : "She is so warm. This doesn't hurt me at all. It feels really good. The best feeling I've ever known.|L||L|I'm still crying? But, my tears don't hurt anymore. My tears are falling, and it feels so good.",
+		"card"    : "Void Feathers|L|1 Extra Plume|L|2 Helper Stones",
+	},
+	"BLS_astrayo" : {
+		"memory"  : "Ya. Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya.|L|I figured out why I made all these heart stones. It's because you are wonderful, and I love you! Here, take some!",
+		"card"    : "Helpers will fire wavy shots|L|[VAL2] Zap Helpers",
+	},
+	"BLS_monovai" : {
+		"memory"  : "So, this is the consequence of being loved? You would seriously leave me with an impossible debt like this? I'll have to spend the rest of eternity making you feel the way I feel now.|L||L|An eternity of feeling loved. You only have yourself to blame.",
+		"card"    : "[VAL1] Void Helpers|L|Helper Dmg. +[VAL3]%",
+	},
+	"BLS_philolu" : {
+		"memory"  : "Hey sweetheart, take this with you. I made it just for you!|L|...Oh, and here. When you see your special sweetheart again, give her this one, okay?|L||L|It wasn't hard for The Love Glyph to figure it out, silly.",
+		"card"    : "Gain [VAL1] All Stone helpers|L|Max Health +[VAL3]",
+	},
+	"BLS_topaz" : {
+		"memory"  : "So this is the feeling of acceptance? Accepting can be painful. It will bring back all the emotions you were defending yourself from. But acceptance can also be a weapon against those emotions.|L||L|...Did you just lick This One? That's alright. The Orb before you has provided a comforting feeling to you.",
+		"card"    : "Block the first hit each battle",
+	},
+	"BLS_oudenai" : {
+		"memory"  : "Am I loved? I am loved. Then I must be someone. I can only be myself, but I can be anyone. Can I be someone who loves, too? I will be someone who loves.",
+		"card"    : "Block the first hit each battle",
+	},
+	
+	
+	
+	
+	"BLS_unit_lulu" : {
+		"memory"  : "//Unit Lulu experienced a sudden rise in temperature|L|//Wingless Zaraden has remembered Unit Lulu.|L|Fear Rating: 0|L||L|//Unit Lulu will now verify the integrity of all tutorial files|L|//Unit Lulu feels excited to teach the Wingless Zaraden new information.",
+		"card"    : "Display fear and reveal [VAL2] extra monsters",
+	},
+	"BLS_null_unit" : {
+		"memory"  : "//Creating new file|L|File Saved: Love_You_Smooches.mem|L|//Moving file to Heart Drive|L||L|//I think I want to keep this one.|L|//Can she like, make me another one?",
+		"card"    : "Survive [VAL1] fatal hits per battle",
+	},
+	"BLS_prisma" : {
+		"memory"  : "//Zaraden has bonded with Prisma|L|[Open Shell]|L|//Zaraden sighted|L|//Is this a friend?|L|//Prisma does not have any data on how to friend|L|//Prisma will complete Prisma-02 today and gather more data",
+		"card"    : "(Focus Only)|L|Zap Hearts|L|Heart Rate +[VAL2]%",
+	},
+	"BLS_rage_prisma" : {
+		"memory"  : "//Cooling water at boiling point!|L|[Open Shell]|L|//Venting excess heat|L|Temperature: 127 Sohradra|L|//Zaraden sighted|L|//Zaraden has a concerned expression|L|//Prisma is now glad she did not explode",
+		"card"    : "(Focus Only)|L|Burn Stars|L|Star Dmg. +[VAL2]%",
+	},
+	"BLS_dual_prisma" : {
+		"memory"  : "[Love signal received]|L|Sender: Prisma-02|L|//Infinite negativity loop broken|L|[Activating Love signal]|L|[Love signal received]|L|Sender: Prisma-02|L|//Prisma has no regrets|L|[Activating Love signal]",
+		"card"    : "Survive [VAL1] fatal hits|L|Max Health +[VAL3]",
+	},
+	"BLS_syncron" : {
+		"memory"  : "[Message sent]|L|[3 Messages received]|L|//Syncron-01: This Unit loves her|L|//Syncron-02: This Unit loves her|L|//Syncron-03: This Unit loves her|L|//These Units are all in agreement then",
+		"card"    : "Attract [VAL1] helpers during battles|L|Helper Dmg. +[VAL3]%",
+	},
+	"BLS_alter_syncron" : {
+		"memory"  : "[2 Messages received]|L|Sender: Syncron-01|L|//This Unit should have accepted your suggestion sooner|L|//This Unit will try not to activate panic mode as easily in the future",
+		"card"    : "+[VAL1] Panic polyps|L|Panic Dmg. +[VAL3]|L|Bigger panics",
+	},
+	"BLS_shiny_syncron" : {
+		"memory"  : "[Panic Sequence Resolved]|L|[Message sent]|L|//Reply received from Syncron-01|L|//Anti-panic system was successful|L||L|//This Unit is in agreement|L|//All panic sequences were resolved without reaching 4 simultaneous instances of panic",
+		"card"    : "Zap panics|L|+[VAL2] Manic Panics",
+	},
+	"BLS_flip_flap" : {
+		"memory"  : "[Pure Affection Received]|L|//This Unit must sing|L|//This Unit agrees|L|//This Unit will flip|L|//This Unit will flap|L|//These Units will share our song",
+		"card"    : "Attract [VAL1] helpers by dealing Dmg. or breaking parts",
+	},
+	"BLS_sentinel_4x" : {
+		"memory"  : "[Heart Drive Unlocked]|L|//Scanning Zaraden|L|//Hair Color: Pink|L|//Skin Color: -1|L|//Wing Type: Feather|L|(Class A chitin mutation)|L|//Power Level: Boundless|L|//This Unit has so many questions for her|L|//This Unit might detonate from excitement",
+		"card"    : "Boundless|L|Your shots warp back [VAL2] times",
+	},
+	"BLS_sentinel_0x" : {
+		"memory"  : "[Heart Drive Unlocked]|L|//Access Folder: Loved Ones|L|//3 files found|L|Wingless_Zaraden.mem|L|Waterfall.mem|L|Yona.mem",
+		"card"    : "Boundless|L|Shoot hearts behind you",
+	},
+	"BLS_ventra" : {
+		"memory"  : "Error: Voice microphone disconnected|L|//Move arm--- gently|L|//This Unit thanks---- Zaraden|L|//She understands",
+		"card"    : "Gain [VAL2]% damage by passing challenges",
+	},
+	"BLS_sapphire" : {
+		"memory"  : "So this is the feeling of calm? A feeling not defined by what it is, but what it isn't. It is a still and neutral feeling, but often felt positively after an attack by negative emotions has ended.|L||L|Ah, so the minty scent you perceive of me has a calming effect on you.",
+		"card"    : "All Damage +[SPEC1]% if you are at low health",
+	},
+	"BLS_default" : {
+		"memory"  : "//What should I be?|L|//Can I be anything?|L|//Can I be loved?|L|//I have just been loved.|L|//I can be anything I want.|L|//I can choose my form later.",
+		"card"    : "All Damage +[SPEC1]% if you are at low health",
+	},
+	
+	
+	
+	
+	"BLS_dot" : {
+		"memory"  : "I see. I was never truly balanced before. Perfect equilibrium is impossible.|L||L|But... let's try that hug one more time. I can do better.",
+		"card"    : "(Focus Only)|L|Feather range up|L|Crit. Rate +[VAL2]%",
+	},
+	"BLS_glacia" : {
+		"memory"  : "I'm going to reflect her. I'm going to say \"I love you\" all the time.|L||L|Okay, maybe next time. How is this so easy for her?",
+		"card"    : "All Damage +[VAL1]% per unit of hp|L|+1 Glass heart",
+	},
+	"BLS_alter_glacia" : {
+		"memory"  : "She is so warm. My petals are defrosting. The stars on them are shining so brightly. I can imagine the compliments Vitrea would give me right now.|L||L|Ahh! I'm blushing so much right now. I think I'm going to melt!",
+		"card"    : "Radiant Stars|L|Crit. Rate +[VAL2]%|L|Longer Crits",
+	},
+	"BLS_null_glacia" : {
+		"memory"  : "I don't always have to stay away from everyone. I can get closer to others and they can help me hold myself together.",
+		"card"    : "Activate void feather shots|L|Void Def. +[VAL3]",
+	},
+	"BLS_vitrea" : {
+		"memory"  : "What was that?! What did you do to me? Do it again! Wait. Wait. Can you show me how to do that?|L||L|I want to show... uh, my friend.",
+		"card"    : "Large Zap aura while in focus|L|Zap Def. +[VAL2]",
+	},
+	"BLS_alter_vitrea" : {
+		"memory"  : "You really don't think I'm too much? You really want to hear me ramble on about the stars? Then I really want to show you something!",
+		"card"    : "Health will slowly regenerate|L|Max Health +[VAL2]",
+	},
+	"BLS_rage_duet" : {
+		"memory"  : "\"I was worried about you.\"|L|\"Me too. That's why I was looking for you.\"|L||L|\"We should thank her... Oh, she already left.\"|L|\"Uhh, I'm still holding you, sorry.\"|L|\"It's okay...\"|L|(Please don't stop)",
+		"card"    : "Burn Hearts|L|Shoot an extra heart",
+	},
+	"BLS_pearl" : {
+		"memory"  : "She's so cute! I want to smile like that. I hope I'm doing it right.|L||L|Her face got even cuter! I must be doing it right!",
+		"card"    : "All damage +[VAL1]%|L|+1 Glass Heart|L|+1 Panic",
+	},
+	"BLS_momo" : {
+		"memory"  : "You really like our dance? I'm simply flourishing right now! Which part did you like the most?",
+		"card"    : "Helpers will orbit around you|L|[VAL2] Radiant Helpers",
+	},
+	"BLS_shy_momo" : {
+		"memory"  : "I think I'm ready to perform this one on stage! Would you like to perform it with me?",
+		"card"    : "Star Shots of all the elements!|L|Max Rate +[VAL2]",
+	},
+	"BLS_shiny_momo" : {
+		"memory"  : "I'm positively blooming! Everything went perfectly! I can't believe you made no mistakes. You are incredible!|L||L|How did you even know all the moves? I just made it up today.",
+		"card"    : "Fully Heal|L|+[VAL2] Chrome Hearts",
+	},
+	"BLS_kiwi" : {
+		"memory"  : "Umm, Miss Zaraden Lady, how come you are so nice?|L|Not like those other mean Zaraden that yell at us. My little sisters were very scared. No, not me. I was brave.|L||L|Umm, they were saying, can we have another hug?",
+		"card"    : "Crit. Rate +[VAL1]%|L|+[VAL2] Glass hearts",
+	},
+	"BLS_citrine" : {
+		"memory"  : "So this is the feeling of confidence? It makes you feel strong. Like you can handle greater risks. You took a huge risk by being vulnerable with others, but you also gained so much. You now have so many loved ones to count on. Everything gets a little easier every time you gain a new one.",
+		"card"    : "All Damage +[SPEC1]% after being hurt|L|(Reset per battle)",
+	},
+	"BLS_echo" : {
+		"memory"  : "You are loved. You can break our fear. You are loved. You can show us love. You are loved. I can now love too. You are loved.",
+		"card"    : "All Damage +[SPEC1]% after being hurt|L|(Twice per battle)",
+	},
+	
+	
+	
+	
+	"BLS_split_veyeral" : {
+		"memory"  : "You could have ignored some of us, but you didn't. You really made sure not to miss a single one of us. We feel so loved right now.",
+		"card"    : "Split Hearts +[VAL1]|L|Heart Dmg. +[VAL2]|L|Void Def. +[VAL3]",
+	},
+	"BLS_burning_veyeral" : {
+		"memory"  : "Okay, alright, you got me. I just wanted to show you my fire. It's time for burning!",
+		"card"    : "Burn Hearts|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"BLS_voltage_veyeral" : {
+		"memory"  : "Put that spotlight on me! It's time for me to shine! I will light the way.",
+		"card"    : "Activate zap heart shots|L|Zap Def. +[VAL3]",
+	},
+	"BLS_venom_veyeral" : {
+		"memory"  : "Wow, this feeling is so much better than misery and pain. Is that really how I've been living? Gross. It's time for detox.",
+		"card"    : "Toxic Stars|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"BLS_frozen_veyeral" : {
+		"memory"  : "You are so warm, and I am so cold. Is this really okay?|L||L|Alright, you accepted my gift, so I'll accept yours.",
+		"card"    : "Max Health +[VAL1]|L|Movement +[VAL3]",
+	},
+	"BLS_vibrant_veyeral" : {
+		"memory"  : "Oh... uh, so you really did mean it? You actually think I'm pretty. I-I know you mean it now. I could actually see it with my own eye.|L||L|Well, I think you're um... beautiful.",
+		"card"    : "Inspire +[VAL1]% Dmg. per battle|L|Radiant Def. +[VAL3]",
+	},
+	"BLS_veyeral_quartet" : {
+		"memory"  : "Alone together? More like, come together, right now, over us.",
+		"card"    : "Heart Shots of all the elements!|L|Heart Rate +[VAL2]",
+	},
+	"BLS_veyeral_rain" : {
+		"memory"  : "Did the rest of you see that?|L|Did the rest of you feel that?|L|So that's what a dream is like? Thank you so much, miss lovely Zaraden.",
+		"card"    : "Large safety bubble",
+	},
+	"BLS_shiny_veyerals" : {
+		"memory"  : "Do you think it's possible for us Veyerals to learn to dream on our own? We will keep trying.",
+		"card"    : "(Focus only)|L|Helper Dmg. +[VAL1]%|L|Shot Rate +[VAL3]%",
+	},
+	"BLS_storm_veyeral" : {
+		"memory"  : "I did not mean to scare you. Well, I did, but-|L|Is it really okay to be so close? I thought all I could do was hurt you. I guess I was wrong. I can love you too.",
+		"card"    : "Zap Feathers|L|Long Range Crits|L|Crit. Rate +[VAL3]%",
+	},
+	"BLS_molten_veyeral" : {
+		"memory"  : "I see. It was always futile. There is no end to your warmth. I don't need to hoard it anymore. I know I can always get more now. I can even make it myself.",
+		"card"    : "Activate burn star shots",
+	},
+	"BLS_amethyst" : {
+		"memory"  : "So this is the feeling of belonging? You accept all these monsters as they are. You understand how they feel and they understand how you feel. This is why you can win them over so easily. They- We accept you too.",
+		"card"    : "Void aura after being hurt",
+	},
+	"BLS_forma" : {
+		"memory"  : "Why am I? I am loved. I can choose why I am. I will choose love. I will love. It does not matter why I was. I will love because I want to.",
+		"card"    : "Large void aura after being hurt",
+	},
+	"BLS_the_void" : {
+		"memory"  : "Please, fix all of us...",
+		"card"    : "Reveal [VAL1] extra monster choices|L|Void Def. +[VAL2]",
+	},
+	"BLS_totaria" : {
+		"memory"  : "So that's why you won't give up. There's someone else there...",
+		"card"    : "All Damage +[VAL6]% per Defense unit|L|(Minimum +[SPEC6]%)",
+	},
+	"BLS_blue_veyeral" : {
+		"memory"  : "You need help holding your combo? Well, you've come to the right Veyeral! I'll simply make sure your combo stays perfect. An easy task for me. It just comes naturally, really.",
+		"card"    : "Combo timer up|L|+[VAL2] Chrome Hearts",
+	},
+	
+	
+	
+	
+	"BLS_anomaly" : {
+		"memory"  : "I can try to fix the cracks on her heart, but I can only do so much. I'm nowhere near perfect after all.|L||L|Did you understand my humor? That little blue one is fascinating.",
+		"card"    : "Heal [VAL1] HP and|L|+[VAL2] Karma after every battle",
+	},
+	"BLS_shiny_anomaly" : {
+		"memory"  : "Although I cannot directly help her in battle, I can manipulate the flow of karma in her favor.",
+		"card"    : "Get more karma, gifts, and easier challenges",
+	},
+	"BLS_stella" : {
+		"memory"  : "You leave a shining trail of stars wherever you go. Did you know that?",
+		"card"    : "Shoot stars behind you|L|Star Dmg. +[VAL2]",
+	},
+	"BLS_celestia" : {
+		"memory"  : "You glow brighter than the moons on a perfect night. Did you know that?",
+		"card"    : "+[VAL1] Reserve hp|L|Max Health +[VAL3]|L|(Permanent)",
+	},
+	"BLS_unity" : {
+		"memory"  : "You have a place to belong now. You can belong here, together with me.",
+		"card"    : "Feathers have endless range",
+	},
+	"BLS_chroma" : {
+		"memory"  : "I was blinded by my own fear. I could not see your true colors. There are so many colors beyond the spectrum that you can see. You should love your colors!",
+		"card"    : "Feather Shots of all the elements!|L|Feather Rate +[VAL2]",
+	},
+	"BLS_duality" : {
+		"memory"  : "Your dreams have shown us something. Just like the day and the night, we too belong together. We always did.",
+		"card"    : "More gifts are offered",
+	},
+	"BLS_trinity" : {
+		"memory"  : "We want to know the colors of love. There are so many ways to show love. We know of these three at least.",
+		"card"    : "Activate all three shot types|L|All Dmg. +[VAL4]%",
+	},
+	"BLS_nix_polyps" : {
+		"memory"  : "I am sorry. It was too much to ask that you save us all. There must be another way.",
+		"card"    : "+[VAL1] Panic polyps|L|Gain a panic per battle",
+	},
+	"BLS_tox_polyps" : {
+		"memory"  : "I am sorry. We don't want to save ourselves by hurting you. There must be another way.",
+		"card"    : "Shoot hearts behind you that warp around",
+	},
+	"BLS_nova" : {
+		"memory"  : "Pride, content, acceptance, calm, confidence, belonging.|L|These are all wonderful feelings.|L|The Zaraden left you here. They did not care what happened to you, but we did. All of us did. You were never really alone. We've always been here. Just too afraid to let ourselves be known.",
+		"card"    : "Protect your combo once per battle",
+	},
+	
+}
