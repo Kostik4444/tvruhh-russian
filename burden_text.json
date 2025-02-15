@@ -1,0 +1,497 @@
+{
+
+	"BDN_messy_artist" : {
+		"name"	  : "Messy Artist",
+		"memory"  : "It's okay if you don't know what you are doing yet. We all have to start by learning first.",
+		"card"    : "Spread heart shots of all elements",
+	},
+	"BDN_forgetful" : {
+		"name"	  : "Forgetful",
+		"memory"  : "What if I forget everything again? What will happen then? Who else can solve this? Is it really just me?|L|Is it getting harder to breathe?|L|...|L||L|Breathe slowly. You know exactly what this is. Everything will be okay.",
+		"card"    : "All gifts appear as unknown",
+	},
+	"BDN_defective" : {
+		"name"	  : "Defective",
+		"memory"  : "It's broken just like Mother's heart. This should be an easy one to take. This is far too easy for me really.",
+		"card"    : "Max Health -[VAL1]",
+	},
+	"BDN_irreparable" : {
+		"name"	  : "Irreparable",
+		"memory"  : "I can fix this.|L|I can fix this.|L|I can fix this.|L|No matter how many times it takes!|L||L|Why is it getting harder?",
+		"card"    : "Health slowly drains, but combos heal you",
+	},
+	"BDN_personal_space" : {
+		"name"	  : "Personal Space",
+		"memory"  : "Are... you sure I have to get that close? But what if they don't like it? I'm just going to back away now.|L||L||shake|Oh, she's approaching me now.|norm|",
+		"card"    : "Feather range -[VAL1]%",
+	},
+	"BDN_dissociation" : {
+		"name"	  : "Dissociation",
+		"memory"  : "Nope.",
+		"card"    : "Can't fire any basic shots|L|1 Cross Twin",
+	},
+	"BDN_clipped" : {
+		"name"	  : "Clipped",
+		"memory"  : "You know what they say, \"An eye for an eye is a good trade and you should always seek vengeance.\" Ha! I couldn't get her wing, but at least MY eye can still see.",
+		"card"    : "[VAL1] burning hp|L|(Burn [VAL4] more after battles)",
+	},
+	"BDN_cycle_of_pain" : {
+		"name"	  : "Cycle of Pain",
+		"memory"  : "I'll make them all pay for this! I don't know how, but I'm going to get back up there with an army of these monsters.",
+		"card"    : "Cycle through all the shot types",
+	},
+	
+	
+	
+	
+	"BDN_glowing_scar" : {
+		"name"	  : "Glowing Scar",
+		"memory"  : "What are you doing? You are just using them to feel better about yourself. The same way she used you! Do you actually think that saying |shake|\"I love you\"|norm| all the time actually means anything real?",
+		"card"    : "Radiant Def. -[VAL1]|L|[VAL2] radiated hp",
+	},
+	"BDN_frostbite_scar" : {
+		"name"	  : "Frostbite Scar",
+		"memory"  : "Where do I even begin with you? Nothing about you is right. |shake|Just one mistake after another.",
+		"card"    : "Void Def. -[VAL1]|L|[VAL2] bleeding hp",
+	},
+	"BDN_singed_scar" : {
+		"name"	  : "Singed Scar",
+		"memory"  : "You should have kept your mouth shut and done as everyone wanted. What was it all for? |shake|Some wingless?",
+		"card"    : "Burn Def. -[VAL1]|L|[VAL2] burning hp",
+	},
+	"BDN_overload_scar" : {
+		"name"	  : "Overload Scar",
+		"memory"  : "You really want to pretend to be some kind of hero after everything you've done? The world would be better if you just |shake|disappeared.",
+		"card"    : "Zap Def. -[VAL1]|L|Overload [VAL2] hp",
+	},
+	"BDN_poison_scar" : {
+		"name"	  : "Poison Scar",
+		"memory"  : "No one would ever want to touch you. |shake|You are disgusting.|norm| Your sister only tolerates you because she has to.",
+		"card"    : "Toxic Def. -[VAL1]|L|[VAL2] poisoned hp",
+	},
+	
+	
+	
+	
+	"BDN_scrambla" : {
+		"memory"  : "We will chase you and you will run. Just like all da others. Everyone run away.|L||L|Everyone always runs away.",
+		"card"    : "Movement -[VAL1]%",
+	},
+	"BDN_shy_scrambla" : {
+		"memory"  : "Don't look for us. We don't want to be seen. We are ugly!",
+		"card"    : "Gain [VAL1] burdened helpers, touching them hurts!",
+	},
+	"BDN_boiler" : {
+		"memory"  : "Stay away from us or we will burn you! Please, dis one can't burn another.|L||L|We are so tired of burning.",
+		"card"    : "Very slow burn shots",
+	},
+	"BDN_rage_boiler" : {
+		"memory"  : "Dis one can't control the fire. There is too much! There is infinite fire! Stay away.",
+		"card"    : "Randomly spread burn shots",
+	},
+	"BDN_knot_knott" : {
+		"memory"  : "Are you trying to take our wife away from us? Stay away. We don't need you here!",
+		"card"    : "1 Trauma Heart|L|1 Bleed Heart",
+	},
+	"BDN_shiny_knots" : {
+		"memory"  : "Our other half is gone.|L|She has finally had enough of us! We are never going to see our wife again. She is gone for good this time!",
+		"card"    : "Max Health is cut in half!|L|Fully Heal",
+	},
+	"BDN_blot" : {
+		"memory"  : "Don't look at us like this! We have no colors, but everything must color! Without colors, we are worthless.",
+		"card"    : "All defenses -[VAL1]|L|Lose [VAL6]% of current hp",
+	},
+	"BDN_alter_blot" : {
+		"memory"  : "Our colors are ugly. It hurts us to see what our colors have become. We don't want you to see us this way!",
+		"card"    : "Lose [VAL1] hp at the start of battles",
+	},
+	"BDN_null_blot" : {
+		"memory"  : "We've forgotten why we even want to live anymore. Nothing we do is right. Just leave us alone, we don't even want to move. Just let the rain wash us away.",
+		"card"    : "Monster Amnesia|L|Monster fear bar is invisible",
+	},
+	"BDN_amalga" : {
+		"memory"  : "Are you going to hurt us too? Are you going to take more from us? We won't let you! No one can take any more from us!",
+		"card"    : "Can't see your own health",
+	},
+	"BDN_calorie" : {
+		"memory"  : "We are so tired and can't focus on anything. We can only burn, but we don't want to burn her. We must keep her away from us.",
+		"card"    : "Can't use focus|L|Burn Def. -[VAL2]",
+	},
+	"BDN_joule" : {
+		"memory"  : "She has so much and we have so little. We are tired of living this way. We will take all of her power!",
+		"card"    : "Energy from parts -[VAL1]%|L|Energize -[VAL2]%",
+	},
+	"BDN_shiny_joule" : {
+		"memory"  : "It seems she doesn't always tell us about our forgotten memories. We can understand the variability of monster reactions from day to day. This must be one of our good days. Perhaps we can send this energy to other Joules that need it more today. We'll do what we can to help!",
+		"card"    : "Start battles with no energy|L|Energize -[VAL2]%",
+	},
+	"BDN_emerald" : {
+		"memory"  : "So this is the feeling of shame? It is a powerful social tool for correcting harmful behavior, but it has been used incorrectly on you. You can't correct your wings, and the ones who made you feel this way should be feeling shame instead.",
+		"card"    : "[VAL1] Trauma Hearts|L|(Hits reduce max health by 1)",
+	},
+	"BDN_shamra" : {
+		"memory"  : "What are we?|L|We? Why did I say it like that? Why did we say it like what? Why are there so many of me? Us. We are so afraid.",
+		"card"    : "[VAL1] Trauma Hearts|L|(Hits reduce max health by 1)",
+	},
+	
+	
+	
+	
+	"BDN_rendy" : {
+		"memory"  : "Please stay away.|L|Don't hurt Rendy.|L|Rendy will bite!|L|Please, please stay away.",
+		"card"    : "Spread Shots|L|Lose [VAL2] hp",
+	},
+	"BDN_shiny_rendy" : {
+		"memory"  : "She is going to be so impressed by how fast Rendy can dig... Wait, where did Rendy bury the treasure?",
+		"card"    : "Movement -[VAL1]%|L|Shot Speed -[VAL2]%",
+	},
+	"BDN_snowball" : {
+		"memory"  : "Royal army, thou shalt protect Her Majesty from this- Ugh, I forgot that I'm all alone.",
+		"card"    : "Your shots have gravity|L|Shot Speed -[VAL2]%",
+	},
+	"BDN_shiny_snowball" : {
+		"memory"  : "I practiced this speech all day. She is going to be so impressed and give me lots of cuddles! Now, where did I bury that treasure?",
+		"card"    : "Your shots have gravity|L|Shot Speed +[VAL2]%",
+	},
+	"BDN_roundsaw" : {
+		"memory"  : "Roundsaw will cut!|L|Roundsaw is serious!|L|Roundsaw really mean it!|L|One more step-|L|Okay, now one step-",
+		"card"    : "All Damage -[VAL1]%",
+	},
+	"BDN_alter_roundsaw" : {
+		"memory"  : "Come to Roundsaw if you dare!|L|A hug not going to stop this monster!|L|But you can try!|L||L|...You will try, yes?",
+		"card"    : "All Damage -[VAL1]%|L|Zap Def. -[VAL2]",
+	},
+	"BDN_null_roundsaw" : {
+		"memory"  : "Come to Roundsaw if you dare.|L|Or don't.|L|Roundsaw not care anyways.|L||L|...Roundsaw cares a little.",
+		"card"    : "Crit. Rate -[VAL1]%|L|Crit. Dmg. -[VAL2]%|L|Void Def. -[VAL3]",
+	},
+	"BDN_lila" : {
+		"memory"  : "Ish focus.|L|Send the ghosts.|L|Make me look scary.|L||L|She smells of sweet fruit!",
+		"card"    : "Can't use Focus|L|Toxic Def. -[VAL2]",
+	},
+	"BDN_shy_lila" : {
+		"memory"  : "|shake|Ahhh!|norm||L|Bye.",
+		"card"    : "Gain [VAL1] burdened helpers, touching them hurts!",
+	},
+	"BDN_sandrome" : {
+		"memory"  : "You must go away.|L|There is no reason for a Zaraden to come to me.|L|I can only take space.|L|I can only stab! Stab!",
+		"card"    : "[VAL1] stymie helpers that block your shots!",
+	},
+	"BDN_voladrome" : {
+		"memory"  : "There is no reason for a Zaraden to come to lava. I will make traps to scare Zaraden away.|L||L|Maybe these are too dangerous? No, LAVA is too dangerous!",
+		"card"    : "[VAL1] stymie helpers|L|Helpers orbit around you",
+	},
+	"BDN_shanx" : {
+		"memory"  : "Darling, are you really approaching me? Take a good look at me from down there. I tower over you. Doesn't that frighten you?|L|At all?",
+		"card"    : "[VAL1] poisoned hp|L|Stay still to reduce it",
+	},
+	"BDN_alter_shanx" : {
+		"memory"  : "|shake|Ahhhhhhhhhh!|norm||L||L|No, I am not afraid of the lightning. Me? Afraid of something silly like that? Don't be preposterous. I was merely trying to scare you away, darling. Did it work?",
+		"card"    : "Zap panics|L|Panic every 30 seconds",
+	},
+	"BDN_ruby" : {
+		"memory"  : "So this is the feeling of frustration? It feels very painful, but it can also be used as a fuel to take action and change the situation. So long as it's kept under control. Be very careful with this one.",
+		"card"    : "Bleed [VAL1] hp when you drop a combo",
+	},
+	"BDN_guardian_soul" : {
+		"memory"  : "Where should I go? Why am I asking that? I need to go somewhere. But where do I need to go? And why?",
+		"card"    : "Bleed [VAL1] hp when you drop a combo",
+	},
+	
+	
+	
+	
+	"BDN_photoxai" : {
+		"memory"  : "No no! You should stay away from me. I will blind you! I can only admire you from far away. I refuse to hurt your pretty eyes.",
+		"card"    : "[VAL1] negative photo helpers that block your shots",
+	},
+	"BDN_dendrohai" : {
+		"memory"  : "I am a waste of time. You should spend that time doing something more efficient. Anything else is better than spending time with me! I can only waste your time.",
+		"card"    : "[VAL1] Trauma Hearts|L|(Hits reduce max health by 1)",
+	},
+	"BDN_hematoren" : {
+		"memory"  : "I am your worst nightmare! I can drain all your life away! I can do it so quickly and it will hurt!|L||L|Why are you still coming towards me?",
+		"card"    : "[VAL1] Bleed Hearts|L|Bleed [VAL3] hp on combo drops",
+	},
+	"BDN_ombroah" : {
+		"memory"  : "This is all my fault. I am the reason it never stops raining. Just leave me alone here to rot. I deserve it.",
+		"card"    : "Create a helper that can block your shots",
+	},
+	"BDN_lavalin" : {
+		"memory"  : "It's not safe to be near me. Please, stay away from me. Don't make me move! I don't know what will happen, but it's never good.",
+		"card"    : "Random burden effect after every battle",
+	},
+	"BDN_heliola" : {
+		"memory"  : "Didn't they ever tell you not to look directly at the sun? All of you are always looking at me! Get away from me. I can only hurt you.",
+		"card"    : "Invisible shots|L|Gravity shots",
+	},
+	"BDN_chemory" : {
+		"memory"  : "I am dirty.|L|I am filthy.|L|These fumes are disgusting.|L|They will bond to you.|L|They will ruin you too.|L|Don't get anywhere near me!",
+		"card"    : "[VAL1] poisoned hp|L|Stay still to reduce it",
+	},
+	"BDN_hadesoh" : {
+		"memory"  : "So, are you here to take your anger out on me? Admit it! You just want to hurt me. It will feel so good, won't it? Well then, bring it on!",
+		"card"    : "Gain 4 helpers with unique burdens",
+	},
+	"BDN_chionotoh" : {
+		"memory"  : "The sharp icicles weren't enough to scare her away. She is still coming this way. Well, there's nothing left to do except cry. My tears hurt so much as they freeze to my face. Maybe she won't try to hurt me if I'm already hurt.",
+		"card"    : "Movement -[VAL1]%|L|Shot Speed -[VAL2]%",
+	},
+	"BDN_astrayo" : {
+		"memory"  : "No!|L|No. No. No. No. No. No. No. No.|L|No. No. No. No. Nope.|L|Those heart stones are not for you!|L|No, I don't know why they came out. No, I don't know why they keep appearing when you get closer. Just don't touch them!",
+		"card"    : "Can't charge, but basic shots are big",
+	},
+	"BDN_monovai" : {
+		"memory"  : "I am made to be alone forever. If you come any closer, then I will not be alone. The consequences of this are severe and unknowable. If you proceed, I will be forced to seek retribution.",
+		"card"    : "Gain [VAL1] filler helpers that do nothing",
+	},
+	"BDN_philolu" : {
+		"memory"  : "Ouch! Rejected!|L|This does not feel so good. She's so sweet and cute too! I really wasn't expecting that. It seems that her heart still belongs to someone else. I never had a shot.|L||L|It's okay! Our friendly date will be fun anyways. Sigh...",
+		"card"    : "Your shots are invisible",
+	},
+	"BDN_topaz" : {
+		"memory"  : "So this is the feeling of denial? It is a powerful defense from suffering overwhelming emotions. However, this shield must eventually come down in order to resolve the source of those emotions. Are you ready to handle them?",
+		"card"    : "Immunity after a hit reduced by [VAL1]%",
+	},
+	"BDN_oudenai" : {
+		"memory"  : "Who am I? I have lost my identity. Did I ever have one? Am I no one? I must be someone. I can't be no one, because I am. But who am I?",
+		"card"    : "Immunity after a hit reduced by [VAL1]%",
+	},
+	
+	
+	
+	
+	"BDN_unit_lulu" : {
+		"memory"  : "//Wingless Zaraden is approaching|L|//Initiating Tutorial Mode|L|Attempt 147|L|Loading: How_To_Love_A.tut|L|Loading: Existential_Dread.prog|L||L|Randomized Lutekna Quote:|L|//Never stop trying, Lulu. Make those monsters love someone!",
+		"card"    : "Your health and monster fear are invisible",
+	},
+	"BDN_null_unit" : {
+		"memory"  : "//This action will delete files|L|//Are you sure?|L|//Yeah, just do it.|L|[Deleting Files]|L|Error: Permission Denied|L|//Ugh. Come on.|L||L|//This will initiate a full shutdown|L|//Are you sure?|L|//Yeah, I guess.|L|[Shutting Down]|L|Error: Permission Denied",
+		"card"    : "All gifts and monsters are unknown",
+	},
+	"BDN_prisma" : {
+		"memory"  : "//Prisma must open shell to determine threat level|L|[Open Shell]|L|//Zaraden sighted|L|[Close Shell]|L|Fear Rating: 4,175|L||L|//Prisma will hold still and keep shell closed",
+		"card"    : "Random wide spread shots|L|Hyperfocus",
+	},
+	"BDN_rage_prisma" : {
+		"memory"  : "//Zaraden is in close proximity|L|[Close Shell]|L|//Temperature Warning!|L|//Recommended Action: Open Shell|L||L|//Temperature Warning!|L|//Temperature Warning!|L|//Self preservation system overwriting actions|L|[Open Shell]",
+		"card"    : "1 stymie helper|L|Can't use focus",
+	},
+	"BDN_dual_prisma" : {
+		"memory"  : "[Distress signal received]|L|Sender: Prisma-02|L|[Activating distress signal]|L|[Distress signal received]|L|Sender: Prisma-02|L|[Activating distress signal]|L|[Distress signal received]|L|Sender: Prisma-02|L|[Activating distress signal]",
+		"card"    : "[VAL1] stymie helpers|L|Hyperfocus",
+	},
+	"BDN_syncron" : {
+		"memory"  : "[Distress signal received]|L|Sender: Syncron-02|L|//Intruder detected|L|//Potential tower zone-0232|L|[Activating distress signal]|L|//Syncron-01 will activate Panic Mode in:|L|//30|L|//29|L|//28",
+		"card"    : "Panic 30 seconds into every battle",
+	},
+	"BDN_alter_syncron" : {
+		"memory"  : "//Wingless Zaraden detected|L|[Distress signal received]|L|Sender: Syncron-02|L|//Activate the flamethrower|L||L|[Message received]|L|Sender: Syncron-02|L|//Suggestion: Let her love you|L|//Syncron-02 must be compromised|L|[Activating Panic Mode]",
+		"card"    : "Automatic panic attacks, but they are late",
+	},
+	"BDN_shiny_syncron" : {
+		"memory"  : "//Motes detected in exhaust port-03|L|//Clog detected in port-03|L|[Activating distress signal]|L|//Reply received from Syncron-01|L|//What is wrong?|L|//Clog detected in port-04|L|//Clog detected in port-05|L|[Activating Panic Mode]",
+		"card"    : "Panic every 30 seconds|L|+1 Panic",
+	},
+	"BDN_flip_flap" : {
+		"memory"  : "[Pure Affection Detected]|L|Fear Rating: 5,724|L|//These Units must activate full defense|L|//This Unit agrees|L|//Armor at 100%|L|//Wire at 50%|L|//This must be enough or there is no hope",
+		"card"    : "Gain [VAL1] filler helpers that do nothing",
+	},
+	"BDN_sentinel_4x" : {
+		"memory"  : "//Intruder detected|L|//Potential tower zone-0673|L|[Activate Power Claw]|L|[Activate Cleansing Claw]|L|//You may not proceed",
+		"card"    : "All challenges are harder",
+	},
+	"BDN_sentinel_0x" : {
+		"memory"  : "//Wingless Zaraden detected|L|Threat level: --------|L|Error: Boundless value|L|[Activate Positive Claw]|L|[Activate Negative Claw]|L|//Marked for deletion",
+		"card"    : "All challenges are harder and there are more",
+	},
+	"BDN_ventra" : {
+		"memory"  : "//Zaraden--- sighted|L|Error: Legs unresponsive|L|Error: Left Weapon disconnected|L|Right Weapon -----------|L|Error: -----|L|//---- Zaraden threat 999999|L|//This Unit--- gives up",
+		"card"    : "Can't use any charged attacks",
+	},
+	"BDN_sapphire" : {
+		"memory"  : "So this is the feeling of anxiety? This feeling is meant to protect you. It makes you take a cautious approach to unknown danger. It seems the world has given you far too many reasons to feel this way.",
+		"card"    : "[VAL1] Stress Hearts|L|(Lose all hp and heal it back)",
+	},
+	"BDN_default" : {
+		"memory"  : "[Loading form models]|L|//Scramble //Knot|L|//Avioc //Meerstalk|L|//Worm_1 //Worm_2|L|//Glyph_Li_1 //Glyph_Li_2|L|//Glyph_Kah //Glyph_Ze|L|//Flower_1 //Flower_2|L|//Thorns_1 //Thorns_2|L|//Orb //Angel|L|//What should I be?",
+		"card"    : "[VAL1] Stress Hearts|L|(Lose all hp and heal it back)",
+	},
+	
+	
+	
+	
+	"BDN_dot" : {
+		"memory"  : "I don't need you here.|L|I am perfectly balanced as I am.|L|Everything is perfect.|L|You will only mess it up for me.",
+		"card"    : "Max Health is cut in half!|L|+[VAL2] Glass Hearts",
+	},
+	"BDN_glacia" : {
+		"memory"  : "My petals are all cracked. If she comes any closer I'll have to move. That will break me.",
+		"card"    : "1 Stress Heart|L|(Lose all hp and heal it back)",
+	},
+	"BDN_alter_glacia" : {
+		"memory"  : "I want to be alone!|L|(No I don't)|L|Stay away from me!|L|(Please, come closer. I'm so cold.)",
+		"card"    : "All defenses -[VAL1]|L|Lose [VAL6]% of current hp",
+	},
+	"BDN_null_glacia" : {
+		"memory"  : "I don't want to move.|L|Just come here and shatter me.|L||L|I'm already broken anyways.",
+		"card"    : "Turn all your hp into reserve health",
+	},
+	"BDN_vitrea" : {
+		"memory"  : "That Zaraden is coming over here? No, I won't fall for this trick. She wants to break me. Well, I won't let her.",
+		"card"    : "Heavy heart|L|Movement +[VAL2]",
+	},
+	"BDN_alter_vitrea" : {
+		"memory"  : "I want to talk to that Zaraden. No, she would just tell me to be quiet and break me.|L||L|She saw me.|L|I'll probably never get to see the stars again.",
+		"card"    : "Heavy heart|L|Slow shots",
+	},
+	"BDN_rage_duet" : {
+		"memory"  : "\"I don't want to see you!\"|L|\"I don't want to see you either!\"|L|\"Then why are you here?\"|L|\"I'm hiding from that Zaraden.\"|L|\"I am too!\"|L|\"Well, you're doing it very LOUDLY as usual!\"|L|\"Shhh... And she found us. Thanks a lot!\"",
+		"card"    : "[VAL1] burning hp|L|[VAL5] Bleed Hearts",
+	},
+	"BDN_pearl" : {
+		"memory"  : "I really, really hope my face looks so menacing right now. Oh, who am I kidding? This would never scare her away.",
+		"card"    : "Can't use panic attacks|L|Radiant Def. -[VAL2]",
+	},
+	"BDN_momo" : {
+		"memory"  : "Keep her away from me! I don't want her to see me. I'm so embarrassing to look at.",
+		"card"    : "[VAL1] stymie helpers|L|Helpers orbit around you",
+	},
+	"BDN_shy_momo" : {
+		"memory"  : "Don't look at me! I've sent all the Murder Blossoms away. No one should ever see me again.",
+		"card"    : "Monster fear bar is invisible",
+	},
+	"BDN_shiny_momo" : {
+		"memory"  : "Wait no! Don't tell her that!|L|Okay, Momo. You can do this.|L|Just ask her to dance with you. No, maybe I shouldn't.",
+		"card"    : "All defenses -[VAL1]",
+	},
+	"BDN_kiwi" : {
+		"memory"  : "It's the pale Zaraden lady.|L|Shush, she will hear us.|L|She already heard us. She is coming over here.|L|Is she going to scream and try to hit us? We were good girls. We stayed away from towers.|L||L|Don't cry little sisters, Big Sister will scare her away.",
+		"card"    : "[VAL1] Trauma Hearts|L|Randomly spread shots",
+	},
+	"BDN_citrine" : {
+		"memory"  : "So this is the feeling of insecurity? As if you are not enough. As if you could lose everything at any moment. It causes you to grab anything dear to you, and grip it tightly. You have not been convinced that you are always enough, no matter how many times you hear it. Is that why you share love with others so easily? So they don't feel like you do?",
+		"card"    : "[VAL1] Bleed Hearts|L|(Hits will bleed 4 more hp)",
+	},
+	"BDN_echo" : {
+		"memory"  : "Who are you? Are you safe or are you dangerous? Who are you? Are you the one who will hurt me? Who are you? Are you the one who will break me? Who are you?",
+		"card"    : "[VAL1] Bleed Hearts|L|(Hits will bleed 4 more hp)",
+	},
+	
+	
+	
+	
+	"BDN_split_veyeral" : {
+		"memory"  : "She is lonely, like us. She will join all of us as nothing.",
+		"card"    : "Helper Dmg. -[VAL1]%",
+	},
+	"BDN_burning_veyeral" : {
+		"memory"  : "You are lacking in warmth. You can join me in burning. Take your place inside the fire with me.",
+		"card"    : "[VAL1] burning hp|L|Move quickly to reduce it",
+	},
+	"BDN_voltage_veyeral" : {
+		"memory"  : "You are lacking in light. You can join me in darkness. Being exposed in the light is a thing to be feared.",
+		"card"    : "Overload [VAL1] hp|L|Use charge shots to clear it",
+	},
+	"BDN_venom_veyeral" : {
+		"memory"  : "You are lacking in touch. You can join me in misery. It is so much easier to feel pain.",
+		"card"    : "Randomly spread toxic shots",
+	},
+	"BDN_frozen_veyeral" : {
+		"memory"  : "...",
+		"card"    : "Very slow void shots",
+	},
+	"BDN_vibrant_veyeral" : {
+		"memory"  : "You are lacking in color. You can join me in dullness. No amount of color can fix you.",
+		"card"    : "Can't use any charged attacks|L|All defenses -[VAL2]",
+	},
+	"BDN_veyeral_quartet" : {
+		"memory"  : "No matter what she says to us, we know we are still nothing. We will make sure she joins us together as nothing.",
+		"card"    : "[VAL1] negative photo helpers that block your shots",
+	},
+	"BDN_veyeral_rain" : {
+		"memory"  : "She is vulnerable. There is nowhere for her to shelter. She will join us as nothing.",
+		"card"    : "Gravity shots that warp around",
+	},
+	"BDN_shiny_veyerals" : {
+		"memory"  : "Sleeping is terrifying for us. There is only vulnerability and darkness. But we could see our dreams with her. We are safe with her.",
+		"card"    : "Shot rate -[VAL1]% for all helpers",
+	},
+	"BDN_storm_veyeral" : {
+		"memory"  : "Stay away from me! I can do nothing but cause pain. I should always be alone for what I've done!",
+		"card"    : "Overload [VAL1] hp every 20% fear|L|Combos heal",
+	},
+	"BDN_molten_veyeral" : {
+		"memory"  : "More!|L|More!|L|I need more!|L|I will take it all from you. I will never return to a lack of warmth.",
+		"card"    : "There are more challenges",
+	},
+	"BDN_amethyst" : {
+		"memory"  : "So this is the feeling of loneliness? The purpose of this feeling is to let you know when to seek companionship and comfort from another. But if there is no one else around, this becomes a deadly poison. You are not made to feel this for very long.",
+		"card"    : "Late auto panics that bleed you|L|+[VAL1] Manic Panics",
+	},
+	"BDN_forma" : {
+		"memory"  : "Why am I? Why am I here? Why am I this? I am made for something. Why was I made? I was made to fill a void, but I can't leave my container. I was made to be alone.",
+		"card"    : "Late auto panics that bleed you|L|+[VAL1] Manic Panics",
+	},
+	"BDN_the_void" : {
+		"memory"  : "Just as you said, the pale one has come here to give me her heart.|L|\"She is dangerous. She has been here many times before. She is very powerful.\"|L|So, does she not want to give it to me? I can't take anything that isn't given to me.|L|\"She wants to give it to you! She's just very stubborn about it!\"",
+		"card"    : "Monster fear bar is invisible|L|Void Def. -[VAL2]",
+	},
+	"BDN_totaria" : {
+		"memory"  : "I'm taking over now! I'm going to take her heart!|L|\"You don't know what you are doing. You're going to ruin it like the others.\"|L|I need it! I need to fix the hearts we've taken. I need to fix my beloved! And it's the only way I can keep her from |shake|killing me!|norm|",
+		"card"    : "Can't see your own health|L|Burn Def. -[VAL2]",
+	},
+	"BDN_blue_veyeral" : {
+		"memory"  : "Anything less than perfection is unacceptable. Without perfection, you are nothing. Without perfection, I am nothing.",
+		"card"    : "Bleed [VAL1] hp when you drop a combo",
+	},
+	
+	
+	
+	
+	"BDN_anomaly" : {
+		"memory"  : "I am bound by the rules of this universe. If it must be something, then at least I can do this for you.",
+		"card"    : "",
+	},
+	"BDN_shiny_anomaly" : {
+		"memory"  : "There is only so much I can do to bend the rules. I can only hope this was more of a blessing than a burden this time.",
+		"card"    : "Can't panic, but gain 1 per battle",
+	},
+	"BDN_stella" : {
+		"memory"  : "They've taken the sunlight from you. Make them burn for this. Sunburn upon them all.",
+		"card"    : "[VAL1] burning hp after each battle",
+	},
+	"BDN_celestia" : {
+		"memory"  : "They've taken the moonlight from you. Take it back from them. Cold night upon them all.",
+		"card"    : "[VAL1] radiated hp|L|End the battle to clear it",
+	},
+	"BDN_unity" : {
+		"memory"  : "Your kind has forsaken you. You do not belong. You are something other.",
+		"card"    : "All monsters appear as unknown",
+	},
+	"BDN_chroma" : {
+		"memory"  : "Be very afraid. All the light in the world is not enough to fend off this fear. Behold my radiance! Everything is darkness before me.",
+		"card"    : "All gifts appear as unknown",
+	},
+	"BDN_duality" : {
+		"memory"  : "Fire and ice collide inside your mind. We'll see it in your dreams. It leaves a throbbing pain behind your face. We know the agony you are feeling. Push your fingers into your eyes. It's the only thing that slowly stops the ache.",
+		"card"    : "Max Health -[VAL1]|L|[VAL2] Trauma Hearts",
+	},
+	"BDN_trinity" : {
+		"memory"  : "Zaraden girl, you are so devoid of color. Let us share our fear with you. You will know every color of fear.",
+		"card"    : "[VAL1] Random burden effects after every battle",
+	},
+	"BDN_nix_polyps" : {
+		"memory"  : "Please help us.|L|Please love us.|L|We need you.|L|We are scared.|L|Please!|L|I need your help.|L|I don't know how to help us.",
+		"card"    : "Panic every 30 seconds, and after being hit",
+	},
+	"BDN_tox_polyps" : {
+		"memory"  : "She can help us.|L|She will help us.|L|Stick to her.|L|Bond with her love.|L|We need it more than her.",
+		"card"    : "Can't use panic attacks",
+	},
+	"BDN_nova" : {
+		"memory"  : "Shame, frustration, denial, anxiety, insecurity, loneliness.|L|What are these feelings like to a Zaraden that was abandoned as a child? How did they grow as she became an adult?",
+		"card"    : "Max Health -[VAL1]",
+	},
+	
+}
