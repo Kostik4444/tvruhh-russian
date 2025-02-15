@@ -179,6 +179,10 @@
 		"memory"  : "So this is the feeling of pride? Yes, you deserve to feel proud of how far you've come. Try to stay humble by remembering all the mistakes you've overcome so far, and thank the ones who helped you along the way.",
 		"card"    : "Max Health +2 after being hurt|L|(Once per battle)",
 	},
+	"BLS_moss" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Boundless|L|Shoot stars behind you",
+	},
 	"BLS_shamra" : {
 		"memory"  : "Do we like this feeling? We do like this feeling. We love this feeling actually. We love love. It was scary at first. No it was thrilling actually. Yes we agree.",
 		"card"    : "Max Health +2 after being hurt|L|(Two per battle)",
@@ -243,6 +247,10 @@
 		"memory"  : "So this is the feeling of content? This is a wonderful feeling. It is the feeling of having everything you could ever hope for. At least for a moment. Many others have so much more than you, and yet they still can't feel this. You are very lucky.",
 		"card"    : "Power grows every time you get hurt",
 	},
+	"BLS_scarlet" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Burn Feathers with endless range",
+	},
 	"BLS_guardian_soul" : {
 		"memory"  : "This feeling... I need to go protect something. Why does it need to be protected? And why do I have to do it? Because, I am the only one who can.",
 		"card"    : "Power grows every time you get hurt",
@@ -301,11 +309,15 @@
 	},
 	"BLS_topaz" : {
 		"memory"  : "So this is the feeling of acceptance? Accepting can be painful. It will bring back all the emotions you were defending yourself from. But acceptance can also be a weapon against those emotions.|L||L|...Did you just lick This One? That's alright. The Orb before you has provided a comforting feeling to you.",
-		"card"    : "Block the first hit each battle",
+		"card"    : "Block the first hit in each battle",
+	},
+	"BLS_dandy" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Feather Rate +[VAL2]|L|Spread shots|L|+[VAL3] Manic Panics",
 	},
 	"BLS_oudenai" : {
 		"memory"  : "Am I loved? I am loved. Then I must be someone. I can only be myself, but I can be anyone. Can I be someone who loves, too? I will be someone who loves.",
-		"card"    : "Block the first hit each battle",
+		"card"    : "Block the first hit in each battle",
 	},
 	
 	
@@ -362,6 +374,10 @@
 	"BLS_sapphire" : {
 		"memory"  : "So this is the feeling of calm? A feeling not defined by what it is, but what it isn't. It is a still and neutral feeling, but often felt positively after an attack by negative emotions has ended.|L||L|Ah, so the minty scent you perceive of me has a calming effect on you.",
 		"card"    : "All Damage +[SPEC1]% if you are at low health",
+	},
+	"BLS_indigo" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Anchored heart shots that split|L|Heart Dmg. +[VAL3]",
 	},
 	"BLS_default" : {
 		"memory"  : "//What should I be?|L|//Can I be anything?|L|//Can I be loved?|L|//I have just been loved.|L|//I can be anything I want.|L|//I can choose my form later.",
@@ -423,6 +439,10 @@
 		"memory"  : "So this is the feeling of confidence? It makes you feel strong. Like you can handle greater risks. You took a huge risk by being vulnerable with others, but you also gained so much. You now have so many loved ones to count on. Everything gets a little easier every time you gain a new one.",
 		"card"    : "All Damage +[SPEC1]% after being hurt|L|(Reset per battle)",
 	},
+	"BLS_amber" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Star rate now only increases when moving",
+	},
 	"BLS_echo" : {
 		"memory"  : "You are loved. You can break our fear. You are loved. You can show us love. You are loved. I can now love too. You are loved.",
 		"card"    : "All Damage +[SPEC1]% after being hurt|L|(Twice per battle)",
@@ -475,9 +495,17 @@
 		"memory"  : "I see. It was always futile. There is no end to your warmth. I don't need to hoard it anymore. I know I can always get more now. I can even make it myself.",
 		"card"    : "Activate burn star shots",
 	},
+	"BLS_blizz_veyeral" : {
+		"memory"  : "You didn't give up? No. It was I who gave up. I was the only one making it harder for you to reach me. But you never stopped trying, and that's all I ever wanted.",
+		"card"    : "All challenges are simple and grant +[VAL2]% Damage",
+	},
 	"BLS_amethyst" : {
 		"memory"  : "So this is the feeling of belonging? You accept all these monsters as they are. You understand how they feel and they understand how you feel. This is why you can win them over so easily. They- We accept you too.",
 		"card"    : "Void aura after being hurt",
+	},
+	"BLS_violet" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "(Focus Only)|L|Void Hearts|L|Crit Rate +[VAL2]%",
 	},
 	"BLS_forma" : {
 		"memory"  : "Why am I? I am loved. I can choose why I am. I will choose love. I will love. It does not matter why I was. I will love because I want to.",
@@ -517,7 +545,7 @@
 	},
 	"BLS_unity" : {
 		"memory"  : "You have a place to belong now. You can belong here, together with me.",
-		"card"    : "Feathers have endless range",
+		"card"    : "Feathers have endless range|L|Feather Rate +[VAL2]",
 	},
 	"BLS_chroma" : {
 		"memory"  : "I was blinded by my own fear. I could not see your true colors. There are so many colors beyond the spectrum that you can see. You should love your colors!",
@@ -542,6 +570,10 @@
 	"BLS_nova" : {
 		"memory"  : "Pride, content, acceptance, calm, confidence, belonging.|L|These are all wonderful feelings.|L|The Zaraden left you here. They did not care what happened to you, but we did. All of us did. You were never really alone. We've always been here. Just too afraid to let ourselves be known.",
 		"card"    : "Protect your combo once per battle",
+	},
+	"BLS_limbo" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Combo timer up|L|[VAL2]% of motes are radiant",
 	},
 	
 }
