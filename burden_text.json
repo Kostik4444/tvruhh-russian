@@ -129,6 +129,10 @@
 		"memory"  : "So this is the feeling of shame? It is a powerful social tool for correcting harmful behavior, but it has been used incorrectly on you. You can't correct your wings, and the ones who made you feel this way should be feeling shame instead.",
 		"card"    : "[VAL1] Trauma Hearts|L|(Hits reduce max health by 1)",
 	},
+	"BDN_moss" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "The screen is mirrored horizontally",
+	},
 	"BDN_shamra" : {
 		"memory"  : "What are we?|L|We? Why did I say it like that? Why did we say it like what? Why are there so many of me? Us. We are so afraid.",
 		"card"    : "[VAL1] Trauma Hearts|L|(Hits reduce max health by 1)",
@@ -193,6 +197,10 @@
 		"memory"  : "So this is the feeling of frustration? It feels very painful, but it can also be used as a fuel to take action and change the situation. So long as it's kept under control. Be very careful with this one.",
 		"card"    : "Bleed [VAL1] hp when you drop a combo",
 	},
+	"BDN_scarlet" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Stay out of yellow safety bubbles!",
+	},
 	"BDN_guardian_soul" : {
 		"memory"  : "Where should I go? Why am I asking that? I need to go somewhere. But where do I need to go? And why?",
 		"card"    : "Bleed [VAL1] hp when you drop a combo",
@@ -253,6 +261,10 @@
 		"memory"  : "So this is the feeling of denial? It is a powerful defense from suffering overwhelming emotions. However, this shield must eventually come down in order to resolve the source of those emotions. Are you ready to handle them?",
 		"card"    : "Immunity after a hit reduced by [VAL1]%",
 	},
+	"BDN_dandy" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "All panics are turned into manic panics",
+	},
 	"BDN_oudenai" : {
 		"memory"  : "Who am I? I have lost my identity. Did I ever have one? Am I no one? I must be someone. I can't be no one, because I am. But who am I?",
 		"card"    : "Immunity after a hit reduced by [VAL1]%",
@@ -295,7 +307,7 @@
 	},
 	"BDN_flip_flap" : {
 		"memory"  : "[Pure Affection Detected]|L|Fear Rating: 5,724|L|//These Units must activate full defense|L|//This Unit agrees|L|//Armor at 100%|L|//Wire at 50%|L|//This must be enough or there is no hope",
-		"card"    : "Gain [VAL1] filler helpers that do nothing",
+		"card"    : "Flip Flap the whole screen",
 	},
 	"BDN_sentinel_4x" : {
 		"memory"  : "//Intruder detected|L|//Potential tower zone-0673|L|[Activate Power Claw]|L|[Activate Cleansing Claw]|L|//You may not proceed",
@@ -303,7 +315,7 @@
 	},
 	"BDN_sentinel_0x" : {
 		"memory"  : "//Wingless Zaraden detected|L|Threat level: --------|L|Error: Boundless value|L|[Activate Positive Claw]|L|[Activate Negative Claw]|L|//Marked for deletion",
-		"card"    : "All challenges are harder and there are more",
+		"card"    : "Screen is flipped and there are more challenges",
 	},
 	"BDN_ventra" : {
 		"memory"  : "//Zaraden--- sighted|L|Error: Legs unresponsive|L|Error: Left Weapon disconnected|L|Right Weapon -----------|L|Error: -----|L|//---- Zaraden threat 999999|L|//This Unit--- gives up",
@@ -312,6 +324,10 @@
 	"BDN_sapphire" : {
 		"memory"  : "So this is the feeling of anxiety? This feeling is meant to protect you. It makes you take a cautious approach to unknown danger. It seems the world has given you far too many reasons to feel this way.",
 		"card"    : "[VAL1] Stress Hearts|L|(Lose all hp and heal it back)",
+	},
+	"BDN_indigo" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Burden the entire chain of helpers",
 	},
 	"BDN_default" : {
 		"memory"  : "[Loading form models]|L|//Scramble //Knot|L|//Avioc //Meerstalk|L|//Worm_1 //Worm_2|L|//Glyph_Li_1 //Glyph_Li_2|L|//Glyph_Kah //Glyph_Ze|L|//Flower_1 //Flower_2|L|//Thorns_1 //Thorns_2|L|//Orb //Angel|L|//What should I be?",
@@ -373,6 +389,10 @@
 		"memory"  : "So this is the feeling of insecurity? As if you are not enough. As if you could lose everything at any moment. It causes you to grab anything dear to you, and grip it tightly. You have not been convinced that you are always enough, no matter how many times you hear it. Is that why you share love with others so easily? So they don't feel like you do?",
 		"card"    : "[VAL1] Bleed Hearts|L|(Hits will bleed 4 more hp)",
 	},
+	"BDN_amber" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Heavy heart|L|[VAL2] Trauma Hearts",
+	},
 	"BDN_echo" : {
 		"memory"  : "Who are you? Are you safe or are you dangerous? Who are you? Are you the one who will hurt me? Who are you? Are you the one who will break me? Who are you?",
 		"card"    : "[VAL1] Bleed Hearts|L|(Hits will bleed 4 more hp)",
@@ -425,9 +445,17 @@
 		"memory"  : "More!|L|More!|L|I need more!|L|I will take it all from you. I will never return to a lack of warmth.",
 		"card"    : "There are more challenges",
 	},
+	"BDN_blizz_veyeral" : {
+		"memory"  : "Are you trying to save me? No. You will just give up like all the others. You always give up!",
+		"card"    : "All challenges are harder and there are more",
+	},
 	"BDN_amethyst" : {
 		"memory"  : "So this is the feeling of loneliness? The purpose of this feeling is to let you know when to seek companionship and comfort from another. But if there is no one else around, this becomes a deadly poison. You are not made to feel this for very long.",
 		"card"    : "Late auto panics that bleed you|L|+[VAL1] Manic Panics",
+	},
+	"BDN_violet" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Gain [VAL1] filler helpers that do nothing",
 	},
 	"BDN_forma" : {
 		"memory"  : "Why am I? Why am I here? Why am I this? I am made for something. Why was I made? I was made to fill a void, but I can't leave my container. I was made to be alone.",
@@ -492,6 +520,10 @@
 	"BDN_nova" : {
 		"memory"  : "Shame, frustration, denial, anxiety, insecurity, loneliness.|L|What are these feelings like to a Zaraden that was abandoned as a child? How did they grow as she became an adult?",
 		"card"    : "Max Health -[VAL1]",
+	},
+	"BDN_limbo" : {
+		"memory"  : "(Coming Soon v8.20a)",
+		"card"    : "Extremely bad accuracy",
 	},
 	
 }
