@@ -202,6 +202,16 @@
 		"card"    : "Upgrade the Radiant Garden",
 		"effect"  : "Radiated Rainbow Petals allow the Radiant Garden to be upgraded.",
 	},
+	"U_vault_key" : {
+		"name"    : "Vault Key",
+		"memory1" : "(Coming Soon v9)",
+		"memory2" : "(Coming Soon v9)",
+		"memory3" : "(Coming Soon v9)",
+		"memory4" : "(Coming Soon v9)",
+		"memory5" : "(Coming Soon v9)",
+		"card"    : "Upgrade the Junk Vault",
+		"effect"  : "Radiated Vault Keys allow the Junk Vault to be upgraded.",
+	},
 	"U_dream_petal" : {
 		"name"    : "Dream Petal",
 		"memory1" : "(Coming Soon v9)",
